@@ -1,0 +1,61 @@
+#!/bin/sh
+
+menu() {
+  printf "1. 👉 Antena-1\n"
+  printf "2. 🆕 Pro TV HD\n"
+  printf "3. 📚 Discovery\n"
+  printf "4. 🏛️ Nat-Geo\n"
+  printf "5. 🏛️ Nat-Geo-Wild\n"
+  printf "6. ℹ️ Viasat-His\n"
+  printf "7. 🎬 Film-Cafe\n"
+  printf "8. 🎬 AMC"
+}
+
+main() {
+  choice=$(menu | choose -b ff79c6 -w 48 -n 9 -s 25 2>/dev/null | cut -d. -f1)
+
+  case $choice in
+  1)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  2)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  3)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  4)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  5)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  6)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  7)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  8)
+
+    streamlink --title "{author} - {category} - {title}" "" best -p ffplay
+    break
+    ;;
+  esac
+}
+
+pkill -f streamlink || main

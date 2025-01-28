@@ -1,0 +1,61 @@
+#!/bin/sh
+
+menu() {
+  printf "1. 🎶 Lofi Girl\n"
+  printf "2. 🎧 Chillhop\n"
+  printf "3. 📦 Box Lofi\n"
+  printf "4. 🎵 The Bootleg Boy\n"
+  printf "5. 📻 Radio Spinner\n"
+  printf "6. 🎼 SmoothChill\n"
+  printf "7. 🔊 Necenzurat\n"
+  printf "8. 🎤 Greu-Ro\n"
+}
+
+main() {
+  choice=$(menu | choose -b ff79c6 -w 48 -n 9 -s 25 2>/dev/null | cut -d. -f1)
+
+  case $choice in
+  1)
+    
+    mpv "http://usa9.fastcast4u.com/proxy/jamz?mp=/1"
+    break
+    ;;
+  2)
+
+    mpv "http://stream.zeno.fm/fyn8eh3h5f8uv"
+    break
+    ;;
+  3)
+
+    mpv "http://stream.zeno.fm/f3wvbbqmdg8uv"
+    break
+    ;;
+  4)
+
+    mpv "http://stream.zeno.fm/0r0xa792kwzuv"
+    break
+    ;;
+  5)
+
+    mpv "https://live.radiospinner.com/lofi-hip-hop-64"
+    break
+    ;;
+  6)
+
+    mpv "https://media-ssl.musicradio.com/SmoothChill"
+    break
+    ;;
+  7)
+
+    mpv "http://necenzurat.radiotequila.ro:7000/;"
+    break
+    ;;
+  8)
+
+    mpv "https://greudedifuzat.ro/stream/"
+    break
+    ;;
+  esac
+}
+
+pkill -f http | main
