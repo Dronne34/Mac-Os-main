@@ -91,12 +91,12 @@ ctrl-alt-s = "exec-and-forget open -n /Applications/'Sublime Text.app'"
 ctrl-alt-v = "exec-and-forget open -n /Applications/'Visual Studio Code.app'"
 ctrl-enter = 'exec-and-forget open -n /Applications/Ghostty.app/'
 ctrl-alt-l = 'exec-and-forget open -n /System/Applications/Launchpad.app'
-ctrl-alt-p = 'exec-and-forget /bin/bash -c /Users/ciprian/bin/lofi-beats'
-ctrl-alt-b = 'exec-and-forget /bin/bash -c /Users/ciprian/bin/brave-url'
-ctrl-alt-t = 'exec-and-forget /bin/bash -c /Users/ciprian/bin/tv-live'
-ctrl-alt-m = 'exec-and-forget /bin/bash -c /Users/ciprian/bin/sel-apps'
-ctrl-alt-q = 'exec-and-forget /bin/bash -c /Users/ciprian/bin/system.sh'
-ctrl-alt-r = 'exec-and-forget /bin/bash -c /Users/ciprian/bin/set_random_wallpaper.sh'
+ctrl-alt-p = 'exec-and-forget /bin/bash -c $HOME/bin/lofi-beats'
+ctrl-alt-b = 'exec-and-forget /bin/bash -c $HOME/bin/brave-url'
+ctrl-alt-t = 'exec-and-forget /bin/bash -c $HOME/bin/tv-live'
+ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/sel-apps'
+ctrl-alt-q = 'exec-and-forget /bin/bash -c $HOME/bin/system.sh'
+ctrl-alt-r = 'exec-and-forget /bin/bash -c $HOME/bin/set_random_wallpaper.sh'
 
 # custom  key aerospace
 # ctrl-alt-right = 'exec-and-forget aerospace list-workspaces --monitor focused --empty no | aerospace move-node-to-workspace --fail-if-noop  --focus-follows-window 5 | aerospace resize smart -80'
