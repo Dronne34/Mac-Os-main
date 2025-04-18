@@ -1,0 +1,81 @@
+#!/bin/sh
+
+menu() {
+  printf "1.  AMC HD – RDS Live\n"
+  printf "2.  Antena 1 HD – RDS Live\n"
+  printf "3.  Atomic – RDS Live\n"
+  printf "4.  CBS Reality – RDS Live\n"
+  printf "5.  Eurosport 1 HD – RDS Live\n"
+  printf "6.  Eurosport 2 HD – RDS Live\n"
+  printf "7.  Film Cafe – RDS Live\n"
+  printf "8.  Film Now HD – RDS Live\n"
+  printf "9.  HBO HD – RDS Live\n"
+  printf "10. Pro TV HD – RDS Live\n"
+  printf "11. SkyShowTime 1 HD – RDS Live\n"
+  printf "12. TV 1000 – RDS Live\n"
+  printf "13. Warner TV – RDS Live"
+}
+
+main() {
+  choice=$(menu | choose -b ff79c6 -w 48 -n 14 -s 25 2>/dev/null | cut -d. -f1)
+
+  case $choice in
+  1)
+    # open -n "/Applications/Brave Browser.app" "https://duckduckgo.com/"
+    open -n "/Applications/Brave Browser.app" "https://rds.live/amc/"
+    break
+    ;;
+  2)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/antena-1-22/"
+    break
+    ;;
+  3)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/atomic/"
+    break
+    ;;
+  4)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/cbs-reality/"
+    break
+    ;;
+  5)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/eurosport-1-hd-c1/"
+    break
+    ;;
+  6)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/eurosport-2-hd-1/"
+    break
+    ;;
+  7)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/film-cafe/"
+    break
+    ;;
+  8)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/film-now-ro1/"
+    break
+    ;;
+  9)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/hbo-hd-1/"
+    break
+    ;;
+  10)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/pro-tv-hd/"
+    break
+    ;;
+  11)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/skyshowtime-hd/"
+    break
+    ;;
+  12)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/tv-1000/"
+    break
+    ;;
+  13)
+    open -n "/Applications/Brave Browser.app" "https://rds.live/warner-tv/"
+    break
+    ;;
+
+  esac
+}
+
+pkill -f "" || main
+# pkill -f "Brave Browser" || main

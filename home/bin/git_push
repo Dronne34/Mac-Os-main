@@ -1,0 +1,12 @@
+#!/bin/bash
+#set -e
+project=$(basename `pwd`)
+#echo $project >> README.md
+git init
+git add .
+gh repo create $project --public  
+#git add README.md
+git commit -m "$project no change"
+git branch -M main
+git remote add origin https://github.com/Dronne34/$project
+git push -u origin main
