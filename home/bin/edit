@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+clear
+# Array cu fișiere (cale completă)
+files=(
+  "$HOME/.config/alacritty/alacritty.toml"
+  "$HOME/.config/kitty/kitty.conf"
+  "$HOME/.config/nvim/init.lua"
+  "$HOME/.config/mpv/mpv.conf"
+  "$HOME/.aerospace.toml"
+  "$HOME/.bash_alias"
+  "$HOME/.bashrc"
+  "$HOME/.zshrc"
+)
+
+while true; do
+  # Construim lista cu icon + nume fișier simplu (basename)
+  list=()
+  for f in "${files[@]}"; do
+    base=$(basename "$f")
+    list+=("📄 $base")
+  done
+
+  # Selectie fzf cu centru vertical și border rounded
+  selection=$(printf '%s\n' "${list[@]}" | fzf \
+    --prompt="Selectează config: " \
+    --height=40% \
+    --layout=reverse \
+    --border=rounded \
+    --info=hidden)
+
+  # Daca ESC sau nimic selectat, iesim
+  if [[ -z "$selection" ]]; then
+    echo "Ieșire."
+    break
+  fi
+
+  # Extragem basename fără iconiță (scăpăm de primele 2 caractere: emoji + spațiu)
+  file_name="${selection:2}"
+
+  # Căutăm calea completă în array pentru basename
+  file_path=""
+  for f in "${files[@]}"; do
+    if [[ $(basename "$f") == "$file_name" ]]; then
+      file_path="$f"
+      break
+    fi
+  done
+
+  # Deschidem în nvim
+  nvim "$file_path"
+done

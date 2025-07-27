@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+# Script: icat-lofi
+# Afișează imaginea .logo/lofi-girl-music.gif în terminal folosind kitty +kitten icat
+
+# Setează calea implicită dacă rulezi din alt director
+IMG_PATH="$HOME/.logo/lofi-girl-music.gif"
+
+# Verifică dacă fișierul există
+if [[ ! -f "$IMG_PATH" ]]; then
+    echo "Fișierul $IMG_PATH nu există."
+    exit 1
+fi
+
+# Rulează imaginea
+kitty +kitten icat "$IMG_PATH"
+

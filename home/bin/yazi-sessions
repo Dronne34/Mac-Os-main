@@ -1,0 +1,29 @@
+#!/bin/bash
+
+SESSION="my_session"
+
+# Verifică dacă sesiunea există
+tmux has-session -t $SESSION 2>/dev/null
+
+if [ $? != 0 ]; then
+    # Creează sesiunea cu un singur panou (implicit pane 0)
+    tmux new-session -d -s $SESSION sh -c 'yazi'
+
+    # Împarte panoul 0 pe orizontal, creează pane 1 (dreapta)
+    tmux split-window -h -p 35 -t $SESSION:0.0
+
+    # În pane 1 rulează radio-fzf
+    tmux send-keys -t $SESSION:0.1 'radio-fzf' C-m
+
+    # Împarte pane 1 pe vertical (creează pane 2 jos)
+    tmux split-window -v -p 65 -t $SESSION:0.1
+
+    # În pane 2 rulează lofi-script
+    tmux send-keys -t $SESSION:0.2 'icat-lofi' C-m
+
+    # Selectăm pane 0 (yazi)
+    tmux select-pane -t $SESSION:0.0
+fi
+
+# Atașează sesiunea
+tmux attach-session -t $SESSION

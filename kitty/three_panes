@@ -1,0 +1,16 @@
+new_tab complex_tab
+layout splits
+
+# First window, set a user variable on it so we can focus it later
+launch --var window=first sh -c "yazi ~/"
+
+launch --location=vsplit --bias=35  'radio-fzf'
+# Create the third window in the second column by splitting the second window horizontally
+# Make it take 40% of the height instead of 50%
+launch --location=hsplit --bias=35 sh -c "kitty +kitten icat /Users/ciprian/.logo/lofi-girl-music.gif; read"
+
+
+# Go back to focusing the first window, so that we can split it
+focus_matching_window var:window=first
+# Create the final window in the first column
+# launch --location=hsplit

@@ -1,7 +1,10 @@
-# import = ["/Users/ciprian/.config/alacritty/style/ayu.toml"]
-import = ["/Users/ciprian/.config/alacritty/style/dracula.toml"]
-# import = ["/Users/ciprian/.config/alacritty/style/citylights.toml"]
+# Settings #
 
+general.import = ["~/.config/alacritty/style/dracula.toml",
+                  "~/.config/alacritty/style/fonts.toml",
+]
+general.live_config_reload = true
+general.ipc_socket = true
 
 [env]
 TERM = "xterm-256color"
@@ -9,29 +12,19 @@ TERM = "xterm-256color"
 [window]
  padding.x = 10
  padding.y = 10
+ # startup_mode = "Maximized"
  startup_mode = "Maximized"
  title = "Alacritty"
 # position = {x = 30, y = 20}
 # dimensions = { columns = 180, lines = 48 }
 
-
-  
- 
-
 #decorations = "Transparent"
-decorations = "None"
+decorations = "Buttonless"
 
-
-opacity = 0.85
+opacity = 0.90
 # blur = true
 
 #option_as_alt = "Both"
-
-[font]
-normal.family = "MesloLGS NF"
-
-size = 14
-
 [cursor]
 blink_interval = 750
 style = "Beam"

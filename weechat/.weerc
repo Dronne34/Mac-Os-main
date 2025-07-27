@@ -1,0 +1,23 @@
+#
+# WeeChat 4.6.3 (compiled on May 11 2025 09:22:11)
+#
+# Use /autoconf load or cat this file to the FIFO pipe.
+#
+# For more info, see https://weechat.org/scripts/source/autoconf.py.html
+#
+
+*/set irc.look.server_buffer independent
+*/set irc.server_default.autoconnect on
+*/set script.scripts.download_enabled on
+*/set spell.check.enabled on
+*/set weechat.color.chat brown
+*/set weechat.color.chat_buffer cyan
+*/set weechat.color.chat_channel 214
+*/set weechat.color.chat_delimiters 214
+*/set weechat.color.chat_inactive_buffer magenta
+*/set weechat.color.chat_inactive_window green
+*/set weechat.color.chat_nick_self green
+*/set weechat.color.chat_prefix_buffer 9
+*/set weechat.color.chat_time 192
+*/set weechat.color.status_time red
+*/set weechat.bar.status.color_bg 238

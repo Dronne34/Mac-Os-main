@@ -1,3 +1,4 @@
+# echo -e "\033[32m✅ GHOSTTY\033[0m \033[31m❤️ TERMINAL HERE\033[0m 🕒 $(date '+%Y-%m-%d %H:%M:%S')\n\033[34m🚀 Ready for ⚡ Productivity🌿"
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -16,8 +17,10 @@ export VISUAL=nvim;
 export EDITOR=nvim;
 source ~/.bash_alias
 
-# export MANPAGER="sh -c 'col -bx | bat -l man -p'"
-export MANPAGER="less -R --use-color -Dd+g -Du+b"
+# export EDITOR=vim;
+# export VISUAL=vim;
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+# export MANPAGER="less -R --use-color -Dd+g -Du+b"
 export MANROFFOPT="-P -c"
 
 # Homebrew
@@ -95,11 +98,11 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-syntax-highlighting zsh-autosuggestions brew)
+plugins=(git zsh-autosuggestions brew zsh-syntax-highlighting)
 
 fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
 FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
-
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -110,11 +113,11 @@ source $ZSH/oh-my-zsh.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='nvim'
-# fi
+if [[ -n $SSH_CONNECTION ]]; then
+  export EDITOR='vim'
+else
+  export EDITOR='nvim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch $(uname -m)"
@@ -179,3 +182,28 @@ source /opt/homebrew/share/zsh-navigation-tools/zsh-navigation-tools.plugin.zsh
 bindkey '^[[B' history-search-forward
 bindkey '^[[A' history-search-backward
 eval "$(zoxide init zsh)"
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# source /Users/ciprian/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+
+
+if test -n "$KITTY_INSTALLATION_DIR"; then
+    export KITTY_SHELL_INTEGRATION="enabled"
+    autoload -Uz -- "$KITTY_INSTALLATION_DIR"/shell-integration/zsh/kitty-integration
+    kitty-integration
+    unfunction kitty-integration
+fi
+
+export  NVIM_TUI_ENABLE_CURSOR_SHAPE  0
+export  YAZI_TRT_FORCE=1
+
+# launchctl setenv EDITOR nvim
+# launchctl setenv VISUAL nvim
+
+# if command -v nvim >/dev/null 2>&1; then
+#     alias vim="nvim"
+# else
+#     alias vim="vim"
+# fi
+
+

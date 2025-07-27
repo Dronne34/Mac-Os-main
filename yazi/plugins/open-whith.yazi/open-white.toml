@@ -1,0 +1,21 @@
+[extension]
+txt = "nvim"
+md = "nvim"
+lua = "nvim"
+py = "nvim"
+c = "nvim"
+cpp = "nvim"
+rs = "nvim"
+sh = "nvim"
+toml = "nvim"
+json = "nvim"
+yml = "nvim"
+yaml = "nvim"
+html = "nvim"
+css = "nvim"
+js = "nvim"
+ts = "nvim"
+
+[default]
+fallback = "nvim"
+

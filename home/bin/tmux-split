@@ -1,0 +1,10 @@
+#!/bin/bash
+#split-window -v -p 50 'icat-lofi' \; \
+
+tmux attach -t base || tmux new-session -s base 'yazi' \; \
+    split-window -h -p 40 'radio-fzf' \; \
+    split-window -v -p 40 \; send-keys 'icat-lofi' C-m \; \
+    select-pane -L \;
+
+# select-pane -L # tmux attach -t base || tmux new-session -s base 'yazi' \; \
+# split-window -v -p 50 'icat-lofi' \; #     split-window -h -p 30 'radio-fzf' \; \

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to the folder containing your wallpapers
-WALLPAPER_DIR="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Wallpapers"  # Use $HOME to ensure the path is correct for any user
+WALLPAPER_DIR="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Wallpapers" # Use $HOME to ensure the path is correct for any user
 
 # Find all image files in the directory and select one randomly
 RANDOM_WALLPAPER=$(find "$WALLPAPER_DIR" -type f \( -iname "*.jpg" -o -iname "*.png" \) | gshuf -n 1)

@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+if [ $# -eq 0 ]; then
+    echo "Utilizare: $0 <cale_catre_cheatsheet>"
+    exit 1
+fi
+
+CHEATSHEET_PATH="$1"
+
+if [ ! -f "$CHEATSHEET_PATH" ]; then
+    echo "Fișierul $CHEATSHEET_PATH nu există."
+    exit 1
+fi
+
+bat --paging=always --color=always "$CHEATSHEET_PATH"

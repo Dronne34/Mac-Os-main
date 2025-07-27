@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+
+ALIAS_FILE="$HOME/.bash_alias"
+
+if [ ! -f "$ALIAS_FILE" ]; then
+    echo "$ALIAS_FILE nu există."
+    exit 1
+fi
+
+ALIASES=()
+while IFS= read -r line; do
+    [[ "$line" =~ ^[[:space:]]*alias[[:space:]]+([^=]+)=(.*) ]] || continue
+    name="${BASH_REMATCH[1]}"
+    value="${BASH_REMATCH[2]}"
+    ALIASES+=("${name}=${value}")
+done <"$ALIAS_FILE"
+
+if [ ${#ALIASES[@]} -eq 0 ]; then
+    echo "Nu există aliasuri în $ALIAS_FILE"
+    exit 1
+fi
+
+SELECTED=$(
+    printf '%s\n' "${ALIASES[@]}" | fzf-tmux -p 30% \
+        \
+        --border=rounded \
+        --color="bg+:#005f00" \
+        --prompt="Selectează alias: " \
+        --preview='echo {} | cut -d"=" -f2-' \
+        --preview-window=right:50%:wrap # \
+    # --reverse \
+)
+
+if [ -n "$SELECTED" ]; then
+    ALIAS_COMMAND=$(echo "$SELECTED" | sed -E "s/^[^=]+=//")
+    # Elimină ghilimelele de început și sfârșit dacă există
+    ALIAS_COMMAND="${ALIAS_COMMAND%\"}"
+    ALIAS_COMMAND="${ALIAS_COMMAND#\"}"
+    ALIAS_COMMAND="${ALIAS_COMMAND%\'}"
+    ALIAS_COMMAND="${ALIAS_COMMAND#\'}"
+
+    echo "Execut: $ALIAS_COMMAND"
+    eval "$ALIAS_COMMAND"
+fi

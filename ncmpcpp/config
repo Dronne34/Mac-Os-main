@@ -30,7 +30,7 @@ mpd_connection_timeout = 5
 #
 ## Needed for tag editor and file operations to work.
 ##
-mpd_music_dir = ~/Music
+
 #
 mpd_crossfade_time = 5
 #
@@ -110,7 +110,7 @@ visualizer_color = "blue, cyan, green, yellow, cyan, red"
 ## Time of inactivity (in seconds) after playlist highlighting will be disabled
 ## (0 = always on).
 ##
-playlist_disable_highlight_delay = 5
+playlist_disable_highlight_delay = 0
 #
 ## Defines how long messages are supposed to be visible.
 ##
@@ -269,7 +269,7 @@ now_playing_prefix = "$b$1$aqqu$/a$9 ▶▶▶▶▶ "
 #
 # song_columns_list_format = (50)[green]{t|f:Title} (7f)[cyan]{l}
 song_columns_list_format = "(60)[green]{t} (5)[cyan]{a}"
-# song_columns_list_format = "(60)[green]{t}"	
+# song_columns_list_format = "(60)[green]{t}"
 
 ##### various settings #####
 #
@@ -278,9 +278,11 @@ song_columns_list_format = "(60)[green]{t} (5)[cyan]{a}"
 ## notifications etc.
 ##
 # execute_on_song_change = ~/.local/bin/musnotify
-#execute_on_song_change = /bin/bash ~/.config/ncmpcpp/art.sh &  notify-send -h string:fgcolor:#E6FF08FF -i /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
-execute_on_song_change = ~/bin/next-song.sh
-; execute_on_song_change = osascript -e mpc  --format '%title% \n%artist%
+# execute_on_song_change = /bin/bash ~/.config/ncmpcpp/art.sh &  notify-send -h string:fgcolor:#E6FF08FF -i /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
+# execute_on_song_change = ~/bin/kitty-cover.sh
+execute_on_song_change = "~/bin/extract_cover.sh"
+# execute_on_song_change = /opt/homebrew/bin/ffmpeg -y -i "$(/opt/homebrew/bin/mpcmpc --format "%file%" current | while read -r f; do echo "/Users/ciprian/Library/Mobile Documents/com~apple~CloudDocs/Muzica/$f"; done)" -an -vcodec copy /tmp/cover.jpg
+# execute_on_song_change = osascript -e mpc  --format '%title% \n%artist%
 ##
 ## Note: Custom command that will be executed each time player state
 ## changes. The environment variable MPD_PLAYER_STATE is set to the current

@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+clear
+# Lista cu iconiță + URL
+radios=$(
+  cat <<EOF
+📻 1.  Radio Guerrilla|http://live.guerrillaradio.ro:8010/guerrilla.aac
+📻 2.  Radio ZU|http://zuicast.digitalag.ro:9420/zu
+📻 3.  Radio Ro-Actualitati|http://89.238.227.6:8006/;
+📻 4.  Radio Europa-FM|http://astreaming.europafm.ro:8000/europafm_aacp48k
+📻 5.  Radio Kiss-Fm|https://live.kissfm.ro/kissfm.aacp
+📻 6.  Radio Magic-Fm|https://live.magicfm.ro/magicfm.aacp
+📻 7.  Radio Digi24-FM|http://live.tananana.ro:9128/stream
+📻 8.  Radio Tequila-Romania|http://dance.radiotequila.ro:7000/;stream.nsv
+📻 9.  Radio Tequila Hip-Hop|http://necenzurat.radiotequila.ro:7000/;
+📻 10. Radio Tequila-Manele|https://petrecere.radiotequila.ro/7000/stream
+📻 11. Radio Manele|https://play.wrhradios.com/8044/stream
+📻 12. Radio Desire-Ro|https://asculta.ascultatare.ro:7000/stream
+📻 13. Radio Greeu-D-D|https://greudedifuzat.ro/stream/
+📻 14. Radio Noise|http://live.radionoise.ro:9100/;
+
+EOF
+)
+
+while true; do
+  clear
+  echo "Apasă ESC pentru a ieși."
+
+  selection=$(echo "$radios" | cut -d'|' -f1 | fzf \
+    --prompt="🎧 Selectează radio: " \
+    --height=60% \
+    --layout=reverse \
+    --border=rounded \
+    --info=hidden \
+    --preview-window=hidden)
+
+  # Dacă s-a apăsat ESC sau nu s-a selectat nimic, ieși din buclă
+  if [ -z "$selection" ]; then
+    echo "❌ Ieșire."
+    break
+  fi
+
+  url=$(echo "$radios" | grep "^$selection|" | cut -d'|' -f2)
+  echo -e "\e[33m🎵 Redau: $selection\e[0m"
+  # echo -e "\e[31m🎵 Redau: $selection\e[0m"
+  echo "Apasă q în mpv pentru a reveni la listă."
+  mpv "$url"
+done

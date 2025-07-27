@@ -1,0 +1,23 @@
+# Kitty session: yazi + 2 panes
+
+# Pane 1: left large with yazi
+launch --cwd=current yazi
+
+# Split vertically 30% on the right
+split-window --location=right --percentage=30
+
+# Pane 2: top right (shell, empty)
+focus-child
+launch --cwd=current
+
+# Split horizontally bottom right 50% din partea dreapta
+split-window --location=bottom --percentage=50
+
+# Pane 3: bottom right (shell, empty)
+focus-child
+launch --cwd=current
+
+# Return focus to left pane if desired
+focus-parent
+focus-parent
+

@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+
+DIR_TO_LIST="$HOME" # directorul de listat
+
+if [ ! -d "$DIR_TO_LIST" ]; then
+    echo "Directorul $DIR_TO_LIST nu există."
+    exit 1
+fi
+
+# Citește folderele în array, sortate alfabetic
+mapfile -d '' FOLDERS < <(find "$DIR_TO_LIST" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
+
+# Elimină calea completă, păstrând doar numele folderului relativ la DIR_TO_LIST
+for i in "${!FOLDERS[@]}"; do
+    FOLDERS[$i]="${FOLDERS[$i]#$DIR_TO_LIST/}"
+done
+
+if [ ${#FOLDERS[@]} -eq 0 ]; then
+    echo "Nu există foldere în $DIR_TO_LIST"
+    exit 1
+fi
+
+SELECTED=$(
+    printf '%s\n' "${FOLDERS[@]}" | fzf-tmux -p 30% \
+        --reverse \
+        --border=rounded \
+        --color="fg:#d0d0d0,bg:#1c1c1c,hl:#00ff00,fg+:#d0d0d0,bg+:#005f00,hl+:#00ff00" \
+        --prompt="Selectează folder: " \
+        --preview="
+    DIR='${DIR_TO_LIST}/{}'
+    if command -v lsd &>/dev/null; then
+      lsd --color=auto -a   \"\$DIR\"
+    elif command -v exa &>/dev/null; then
+      exa --long --group-directories-first --color=always \"\$DIR\"
+    elif command -v ls &>/dev/null; then
+      ls -lA \"\$DIR\"
+    else
+      echo 'Instalează lsd, exa sau ls pentru preview'
+    fi
+  " \
+        --preview-window=right:50%:wrap
+)
+
+if [ -n "$SELECTED" ]; then
+    TARGET="$DIR_TO_LIST/$SELECTED"
+    echo "Deschid folderul în yazi: $TARGET"
+    yazi "$TARGET"
+fi

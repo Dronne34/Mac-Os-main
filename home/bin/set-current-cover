@@ -1,0 +1,16 @@
+#! /usr/bin/env bash
+
+# kitty @ send-text \
+# --match title:cover \
+# "clear && kitty icat /tmp/cover.jpg\r"
+#
+#! /usr/bin/env bash
+
+kitty @ send-text \
+  --match title:cover \
+  "
+    PS1='' bash --init-file <(echo '
+      clear && \
+        kitty icat --transfer-mode=stream /tmp/cover.png
+    ') \r
+  "

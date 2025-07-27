@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+# Obține fișierul curent redat de MPD
+current_file=$(mpc --format %file% current)
+
+# Verifică dacă există fișier redat
+if [ -z "$current_file" ]; then
+  echo "Nimic redat în prezent."
+  exit 1
+fi
+
+# Obține calea absolută către muzică din mpd.conf
+music_dir="/Users/ciprian/Library/Mobile Documents/com~apple~CloudDocs/Muzica/"
+
+# Creează calea completă
+full_path="$music_dir/$current_file"
+
+# Verifică dacă fișierul există
+if [ ! -f "$full_path" ]; then
+  echo "Fișierul curent nu există: $full_path"
+  exit 1
+fi
+
+# Extrage coperta folosind ffmpeg
+ffmpeg -y -i "$full_path" -an -vcodec copy /tmp/cover.jpg 2>/dev/null
+
+# Verifică dacă extragerea a reușit
+if [ $? -eq 0 ]; then
+  echo "Coperta a fost salvată în /tmp/cover.jpg"
+else
+  echo "Nu s-a putut extrage coperta."
+fi

@@ -8,7 +8,6 @@ endif
 """"""""""""""""""""
 " set scrolloff=30
 " autocmd VimEnter * stopinsert
-" General Settings
 " autocmd VimLeave * startinsert
 " set tabstop=4
 syntax enable
@@ -17,9 +16,9 @@ filetype on
 filetype plugin on
 filetype indent on
 let g:rehash256 = 1
-" set clipboard=unnamedplus       " Copy/paste between vim and other programs.
+set clipboard=unnamedplus       " Copy/paste between vim and other programs.
 set number relativenumber       " Display line numbers
-" set termguicolors
+set termguicolors
 set number
 set hidden                      " Needed to keep multiple buffers open
 set nobackup                    " No auto backups
@@ -32,6 +31,7 @@ set laststatus=2
 set incsearch
 set nowrap
 set showmode
+set cursorline
 set wildmenu
 set spelllang=en
 set spell
@@ -64,20 +64,16 @@ Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdcommenter'
 Plug 'ervandew/supertab'
 Plug 'https://github.com/tpope/vim-commentary'
-Plug 'crusoexia/vim-monokai'
 Plug 'tribela/vim-transparent'
-
 
 call plug#end()
 
 " colorscheme nord
 " colorscheme slate
 " colorscheme dracula
-" colorscheme palenight
-colorscheme onedark
+colorscheme palenight
+" colorscheme onedark
 " colorscheme desert
-" colorscheme monokai
-
 
 nmap ga <Plug>(EasyAlign)
 xmap ga <Plug>(EasyAlign)
@@ -187,4 +183,12 @@ augroup myCmds
 au!
 autocmd VimEnter * silent !echo -e "\e[5 q"
 augroup END
+
+" Folosește clipboard-ul macOS implicit pentru yy și p
+nnoremap yy "+yy
+nnoremap p "+p
+nnoremap P "+P
+vnoremap y "+y
+vnoremap p "+p
+vnoremap P "+P
 
