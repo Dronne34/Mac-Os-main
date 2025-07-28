@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Set folder de ieșire
+OUTPUT_DIR="$HOME/muzica_2pac"
+mkdir -p "$OUTPUT_DIR"
+
+# Fișier cu lista
+LISTA="lista.txt"
+
+# Opțiuni yt-dlp
+YT_DLP_OPTS=(
+    --extract-audio
+    --audio-format mp3
+    --embed-thumbnail
+    --prefer-ffmpeg
+    --output "$OUTPUT_DIR/%(title)s.%(ext)s"
+)
+
+# Citim linie cu linie
+while IFS= read -r line || [ -n "$line" ]; do
+    # Curățăm extensia și caracterele în plus
+    TITLU=$(basename "$line" .mp3)
+
+    echo "🔍 Caut: $TITLU"
+    yt-dlp "${YT_DLP_OPTS[@]}" "ytsearch1:$TITLU"
+done <"$LISTA"
