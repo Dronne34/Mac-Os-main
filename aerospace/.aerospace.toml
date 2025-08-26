@@ -27,8 +27,8 @@ on-focus-changed = [
 ]
 
 # Normalizations. See: https://nikitabobko.github.io/AeroSpace/guide#normalization
-enable-normalization-flatten-containers = false
 enable-normalization-opposite-orientation-for-nested-containers = false
+enable-normalization-flatten-containers = false
 
 # See: https://nikitabobko.github.io/AeroSpace/guide#layouts
 # The 'accordion-padding' specifies the size of accordion padding
@@ -84,45 +84,58 @@ outer.top = 10
 # All possible commands: https://nikitabobko.github.io/AeroSpace/commands
 # You can uncomment this line to open up terminal with alt + enter shortcut
 # See: https://nikitabobko.github.io/AeroSpace/commands#exec-and-forget
-ctrl-alt-f = 'exec-and-forget open /System/Library/CoreServices/Finder.app'
 # ctrl-enter = 'exec-and-forget open -n /Applications/Alacritty.app'
 # ctrl-alt-b = "exec-and-forget open -n /Applications/'Brave Browser.app'"
 # ctrl-alt-s = "exec-and-forget open -n /Applications/'Sublime Text.app'"
-# ctrl-alt-v = "exec-and-forget open -n /Applications/'Visual Studio Code.app'"
-ctrl-enter = 'exec-and-forget open -n /Applications/Alacritty.app/'
 # alt-enter  = 'exec-and-forget open -n /Applications/kitty.app'
+ctrl-alt-f = 'exec-and-forget open /System/Library/CoreServices/Finder.app'
+ctrl-alt-v = "exec-and-forget open -n /Applications/'Visual Studio Code.app'"
+ctrl-enter = 'exec-and-forget open -n /Applications/Alacritty.app/'
+ctrl-alt-y = 'exec-and-forget open -na "alacritty" --args -e yazi ~/'
 alt-enter = 'exec-and-forget open -a kitty.app -n'
 
+# Media
+f7 = 'exec-and-forget mpc prev'
+f8 = 'exec-and-forget mpc toggle'
+f9 = 'exec-and-forget mpc next'
+
+# Applications
+# ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/sel-apps'
+# alt-enter  = 'exec-and-forget /bin/bash -c kitty --single-instance'
+ctrl-alt-j = 'exec-and-forget /Applications/Brave\ Browser.app/Contents/MacOS/Brave\ Browser --profile-directory="Profile 1"'
+ctrl-alt-d = 'exec-and-forget /Applications/Brave\ Browser.app/Contents/MacOS/Brave\ Browser --profile-directory="Default"'
 ctrl-alt-l = 'exec-and-forget open -n /System/Applications/Launchpad.app'
+ctrl-alt-r = 'exec-and-forget /bin/bash -c $HOME/bin/set_random_wallpaper.sh'
+ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/ncmpcpp-three'
+ctrl-cmd-n = 'exec-and-forget /bin/bash -c $HOME/bin/kitty_three'
 ctrl-alt-p = 'exec-and-forget /bin/bash -c $HOME/bin/lofi-beats'
 ctrl-alt-b = 'exec-and-forget /bin/bash -c $HOME/bin/brave-url'
-ctrl-alt-t = 'exec-and-forget /bin/bash -c $HOME/bin/rds-url'
-ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/sel-apps'
 ctrl-cmd-m = 'exec-and-forget /bin/bash -c $HOME/bin/music-art'
-ctrl-cmd-n = 'exec-and-forget /bin/bash -c $HOME/bin/kitty_three'
 ctrl-alt-q = 'exec-and-forget /bin/bash -c $HOME/bin/system.sh'
-ctrl-alt-r = 'exec-and-forget /bin/bash -c $HOME/bin/set_random_wallpaper.sh'
-# alt-enter  = 'exec-and-forget /bin/bash -c kitty --single-instance'
+ctrl-alt-t = 'exec-and-forget /bin/bash -c $HOME/bin/rds-url'
 
 # custom  key aerospace
 # ctrl-alt-right = 'exec-and-forget aerospace list-workspaces --monitor focused --empty no | aerospace move-node-to-workspace --fail-if-noop  --focus-follows-window 5 | aerospace resize smart -80'
 # ctrl-alt-left = 'exec-and-forget aerospace list-workspaces --monitor focused --empty no | aerospace move-node-to-workspace --focus-follows-window --wrap-around next'
 
 # https://nikitabobko.github.io/AeroSpace/commands#close
-cmd-q = 'close --quit-if-last-window'
 # cmd-q = 'close-all-windows-but-current'
+cmd-q = 'close --quit-if-last-window'
 
 # i3 wraps focus by default
+alt-semicolon = 'focus --boundaries-action wrap-around-the-workspace right'
 alt-j = 'focus --boundaries-action wrap-around-the-workspace left'
 alt-k = 'focus --boundaries-action wrap-around-the-workspace down'
 alt-l = 'focus --boundaries-action wrap-around-the-workspace up'
-alt-semicolon = 'focus --boundaries-action wrap-around-the-workspace right'
+
+# Split
 alt-h = 'split horizontal'
 alt-v = 'split vertical'
 
+# Layouts
 # See: https://nikitabobko.github.io/AeroSpace/commands#layout
-ctrl-slash = 'layout tiles horizontal vertical'
 ctrl-comma = 'layout accordion horizontal vertical'
+ctrl-slash = 'layout tiles horizontal vertical'
 
 # https://nikitabobko.github.io/AeroSpace/commands#macos-native-fullscreen
 ctrl-shift-f = 'macos-native-fullscreen'
@@ -130,23 +143,26 @@ ctrl-f = 'fullscreen --no-outer-gaps'
 
 
 # Custom setting
-cmd-right = 'workspace next'
-cmd-left  = 'workspace prev'
 alt-cmd-right = 'focus right --ignore-floating'
-alt-cmd-left  = 'focus left  --ignore-floating'
-alt-cmd-up    = 'focus up    --ignore-floating'
-alt-cmd-down  = 'focus down  --ignore-floating'
+alt-cmd-left = 'focus left  --ignore-floating'
+alt-cmd-down = 'focus down  --ignore-floating'
+alt-cmd-up = 'focus up    --ignore-floating'
 
+# Workspace
+cmd-right = 'workspace next'
+cmd-left = 'workspace prev'
 
+# Move
 # See: https://nikitabobko.github.io/AeroSpace/commands#move
 alt-cmd-h = 'move left'
+alt-cmd-l = 'move right'
 alt-cmd-j = 'move down'
 alt-cmd-k = 'move up'
-alt-cmd-l = 'move right'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#resize
 ctrl-alt-minus = 'resize smart +80'
 ctrl-alt-equal = 'resize smart -80'
+
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#workspace
 cmd-1 = 'workspace 1'

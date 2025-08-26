@@ -1,27 +1,31 @@
 # Settings #
 
-general.import = ["~/.config/alacritty/style/dracula.toml",
-                  "~/.config/alacritty/style/fonts.toml",
+general.import = [
+    # "~/.config/alacritty/style/dracula.toml",
+    "~/.config/alacritty/style/catppuccin-frappe.toml",
+    # "~/.config/alacritty/style/fonts_hack.toml",
+    "~/.config/alacritty/style/fonts.toml",
 ]
 general.live_config_reload = true
 general.ipc_socket = true
+general.working_directory = "$HOME"
 
 [env]
 TERM = "xterm-256color"
 
 [window]
- padding.x = 10
- padding.y = 10
- # startup_mode = "Maximized"
- startup_mode = "Maximized"
- title = "Alacritty"
+padding.x = 2
+padding.y = 2
+# startup_mode = "Maximized"
+startup_mode = "Maximized"
+title = "Alacritty"
 # position = {x = 30, y = 20}
 # dimensions = { columns = 180, lines = 48 }
 
 #decorations = "Transparent"
 decorations = "Buttonless"
 
-opacity = 0.90
+opacity = 0.85
 # blur = true
 
 #option_as_alt = "Both"
@@ -29,4 +33,6 @@ opacity = 0.90
 blink_interval = 750
 style = "Beam"
 
-
+[terminal]
+shell = { program = "/bin/zsh", args = ["-l"] }
+osc52 = "CopyPaste"
