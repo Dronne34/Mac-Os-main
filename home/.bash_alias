@@ -15,6 +15,7 @@
     alias kd="kitten diff"
     alias ed="edit"
     alias ra="radio-fzf"
+    alias kc="kitty-control"
 
     # alias r='ranger'
     # alias n='nnn -a -e -Pt'

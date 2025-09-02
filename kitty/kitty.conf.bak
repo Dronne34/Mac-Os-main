@@ -1,11 +1,11 @@
-
 # ==== Opacity ====
-background_opacity 0.95
+background_opacity 0.90
 dynamic_background_opacity yes
-
-font_size        16 
+enable_animations no
+#Font-related settings
+font_size        15
 # Rounded corners
-# macos_window_corner_radius 12
+macos_window_corner_radius 12
 # ==== Cursor ====
 cursor_blink_interval 5
 cursor_shape     beam
@@ -30,7 +30,7 @@ scrollback_lines 5000
 
 
 # BEGIN_KITTY_THEME
-# Nordfox
+# 1984 Dark
 include current-theme.conf
 # END_KITTY_THEME
 
@@ -60,19 +60,13 @@ enabled_layouts tall,stack
 allow_remote_control yes
 confirm_os_window_close 0
 
-
-map alt+left resize_window narrower 3
-map alt+right resize_window wider 3
-map alt+up resize_window taller 3 
-map alt+down resize_window shorter 3
-# reset all windows in the tab to default sizes
+map alt+right resize_window wider 5
+map alt+left resize_window narrower 5
+map alt+up resize_window taller 5
+map alt+down resize_window shorter 5
 map alt+r resize_window reset
 
 focus_follows_mouse yes
-
-# map ctrl+2 launch --location=hsplit ncmpcpp   
-# map ctrl+2 launch --location=hsplit --bias=70 ncmpcpp   
-
 cursor_shape beam
 
 map ctrl+alt+left move_window left
@@ -86,17 +80,11 @@ map shift+alt+right neighboring_window right
 map shift+alt+up neighboring_window top
 map shift+alt+down neighboring_window bottom
 
-# map ctrl+alt+1 kitten @ set-background-opacity 0.90
-# map ctrl+alt+2 kitten @ set-background-opacity 0.95
+map alt+1 launch --allow-remote ~/.local/bin/kitty-control tran 0.9
+map alt+2 launch --allow-remote ~/.local/bin/kitty-control tran 0.8
+map alt+3 launch --allow-remote ~/.local/bin/kitty-control tran 0.7
+map alt+4 launch --allow-remote ~/.local/bin/kitty-control tran 0.6
+map alt+5 launch --allow-remote ~/.local/bin/kitty-control tran 0.5
 
-# map ctrl+shift+1 launch --allow-remote kitty @ set-colors --all background_opacity=1
-# map ctrl+shift+2 launch --allow-remote kitty @ set-colors --all background_opacity=0.8
-# Complet opac
-map ctrl+shift+1 launch --allow-remote kitty @ set-colors --all background_opacity=1
-
-# 80% opac
-map ctrl+shift+2 launch --allow-remote kitty @ set-colors --all background_opacity=0.8
-
-# 60% opac
-map ctrl+shift+3 launch --allow-remote kitty @ set-colors --all background_opacity=0.6
-
+map ctrl+3 launch --type=window --location=hsplit --cwd=current --bias=20 --title=cover observe.sh
+map ctrl+4 launch --type=window --location=hsplit --cwd=current --bias=15 --title=radio radio-fzf

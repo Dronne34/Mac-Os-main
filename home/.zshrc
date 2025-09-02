@@ -98,11 +98,12 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions brew zsh-syntax-highlighting)
+plugins=(git brew fzf)
 
 fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
 FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -182,7 +183,6 @@ source /opt/homebrew/share/zsh-navigation-tools/zsh-navigation-tools.plugin.zsh
 bindkey '^[[B' history-search-forward
 bindkey '^[[A' history-search-backward
 eval "$(zoxide init zsh)"
-source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # source /Users/ciprian/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 

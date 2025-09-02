@@ -59,12 +59,12 @@ key-mapping.preset = 'qwerty'
 #                 Monitor pattern is the same as for 'workspace-to-monitor-force-assignment'.
 #                 See: https://nikitabobko.github.io/AeroSpace/guide#assign-wor11kspaces-to-monitors
 [gaps]
-inner.horizontal = 10
-inner.vertical = 10
-outer.bottom = 10
-outer.right = 10
-outer.left = 10
-outer.top = 10
+inner.horizontal = 15
+inner.vertical = 15
+outer.bottom = 15
+outer.right = 15
+outer.left = 15
+outer.top = 15
 # 'main' binding mode declaration
 # See: https://nikitabobko.github.io/AeroSpace/guide#binding-modes
 # 'main' binding mode must be always presented
@@ -92,7 +92,7 @@ ctrl-alt-f = 'exec-and-forget open /System/Library/CoreServices/Finder.app'
 ctrl-alt-v = "exec-and-forget open -n /Applications/'Visual Studio Code.app'"
 ctrl-enter = 'exec-and-forget open -n /Applications/Alacritty.app/'
 ctrl-alt-y = 'exec-and-forget open -na "alacritty" --args -e yazi ~/'
-alt-enter = 'exec-and-forget open -a kitty.app -n'
+alt-enter  = 'exec-and-forget open -a kitty.app -n'
 
 # Media
 f7 = 'exec-and-forget mpc prev'
@@ -113,6 +113,7 @@ ctrl-alt-b = 'exec-and-forget /bin/bash -c $HOME/bin/brave-url'
 ctrl-cmd-m = 'exec-and-forget /bin/bash -c $HOME/bin/music-art'
 ctrl-alt-q = 'exec-and-forget /bin/bash -c $HOME/bin/system.sh'
 ctrl-alt-t = 'exec-and-forget /bin/bash -c $HOME/bin/rds-url'
+ctrl-alt-s = 'exec-and-forget /bin/bash -c /Applications/Safari.app'
 
 # custom  key aerospace
 # ctrl-alt-right = 'exec-and-forget aerospace list-workspaces --monitor focused --empty no | aerospace move-node-to-workspace --fail-if-noop  --focus-follows-window 5 | aerospace resize smart -80'
@@ -261,6 +262,16 @@ run = ['layout floating', 'move-node-to-workspace 4']
 [[on-window-detected]]
 if.app-id = 'net.kovidgoyal.kitty'
 run = ['move-node-to-workspace 4']
+
+# Safari
+[[on-window-detected]]
+if.app-id = 'com.apple.Safari'
+run = ['move-node-to-workspace 3']
+
+# Noir
+[[on-window-detected]]
+if.app-id = 'nl.jeffreykuiken.NoirApp.mac'
+run = ['layout floating', 'move-node-to-workspace 3']
 
 [workspace-to-monitor-force-assignment]
 1 = 1 # Monitor sequence number from left to right. 1-based indexing

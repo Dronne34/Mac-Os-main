@@ -268,7 +268,7 @@ now_playing_prefix = "$b$1$aqqu$/a$9 ▶▶▶▶▶ "
 ##
 #
 # song_columns_list_format = (50)[green]{t|f:Title} (7f)[cyan]{l}
-song_columns_list_format = "(60)[green]{t} (5)[cyan]{a}"
+song_columns_list_format = "(60)[green]{a} (5)[cyan]{t}"
 # song_columns_list_format = "(60)[green]{t}"
 
 ##### various settings #####
@@ -280,9 +280,10 @@ song_columns_list_format = "(60)[green]{t} (5)[cyan]{a}"
 # execute_on_song_change = ~/.local/bin/musnotify
 # execute_on_song_change = /bin/bash ~/.config/ncmpcpp/art.sh &  notify-send -h string:fgcolor:#E6FF08FF -i /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
 # execute_on_song_change = ~/bin/kitty-cover.sh
-execute_on_song_change = "~/bin/extract_cover.sh"
+# execute_on_song_change = "~/bin/extract_cover.sh"
 # execute_on_song_change = /opt/homebrew/bin/ffmpeg -y -i "$(/opt/homebrew/bin/mpcmpc --format "%file%" current | while read -r f; do echo "/Users/ciprian/Library/Mobile Documents/com~apple~CloudDocs/Muzica/$f"; done)" -an -vcodec copy /tmp/cover.jpg
 # execute_on_song_change = osascript -e mpc  --format '%title% \n%artist%
+execute_on_song_change = "~/bin/extract-cover"
 ##
 ## Note: Custom command that will be executed each time player state
 ## changes. The environment variable MPD_PLAYER_STATE is set to the current
@@ -336,7 +337,7 @@ progressbar_look = ▪▶
 #
 ## Available values: classic, alternative.
 ##
-user_interface = "alternative"
+user_interface = "classic"
 #
 #data_fetching_delay = yes
 #
@@ -410,7 +411,7 @@ screen_switcher_mode = "playlist, help, clock"
 ## Note: You can define startup slave screen by choosing screen from the list
 ## above or an empty value for no slave screen.
 ##
-startup_slave_screen = "help"
+# startup_slave_screen = "help"
 #
 startup_slave_screen_focus = no
 #
@@ -521,35 +522,35 @@ display_remaining_time = yes
 #
 colors_enabled = "yes"
 #
-empty_tag_color = "cyan"
+empty_tag_color = "153"           # Nord yellow (nord13)
 #
-header_window_color = "red"
+header_window_color = "67"        # Nord blue (nord10)
 #
-volume_color = "white"
+volume_color = "73"               # Nord cyan (nord8)
 #
-state_line_color = "red"
+state_line_color = "131"          # Nord red (nord11)
 #
-state_flags_color = "red"
+state_flags_color = "131"         # Nord red (nord11)
 #
-main_window_color = "yellow"
+main_window_color = "109"         # Nord green (nord14)
 #
-color1 = "white"
+color1 = "188"                    # Nord fg (nord4)
 #
-color2 = "red_black"
+color2 = "236"                    # Nord bg (nord1)
 #
-progressbar_color = "black:b"
+progressbar_color = "67:b"        # Nord blue, bold (nord10)
 #
-progressbar_elapsed_color = "red"
+progressbar_elapsed_color = "153" # Nord yellow (nord13)
 #
-statusbar_color = "white"
+statusbar_color = "188"           # Nord fg (nord4)
 #
-statusbar_time_color = "cyan"
+statusbar_time_color = "153"      # Nord yellow (nord13)
 #
-player_state_color = "green"
+player_state_color = "109"        # Nord green (nord14)
 #
-alternative_ui_separator_color = "black:b"
+alternative_ui_separator_color = "236:b" # Nord bg, bold (nord1)
 #
-window_border_color = "green"
+window_border_color = "73"        # Nord cyan (nord8)
 #
-active_window_border = "red"
+active_window_border = "67"       # Nord blue (nord10)
 #

@@ -1,0 +1,1036 @@
+config_file: config parameter "id3v1_encoding" on line 20 is deprecated
+2025-08-28T21:51:04 exception: Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+config_file: config parameter "id3v1_encoding" on line 21 is deprecated
+2025-08-28T21:55:53 exception: Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Nasa.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Mercedes.mp3
+2025-08-28T21:56:07 update: added Manele/Florin Cercel - Iosif Dragoi - Boom am talent din ala bun.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Da-mi locatia.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Antonia - De ce te uiți așa.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Ups - ce eroare.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Pe Balans.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Brazilianca.mp3
+2025-08-28T21:56:07 update: added Manele/Daiana - Bogdan DLP - Insula Iubirii.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Manele Mentolate - Trotinete - From 'Romina VTM' The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Tzanca Uraganu - Johnny Nebunu.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Formula 1.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Ian - Roma.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Antonio Pican - Ploua cu banii.mp3
+2025-08-28T21:56:07 update: added Manele/What's Up - Jador - Ce N-Aș Da.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Andrei Vitan - Nana Dinu - Hi Baby.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Corporatista.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - BOB - Ma Suni Noaptea.mp3
+2025-08-28T21:56:07 update: added Manele/Alberto Guta - Nicolae Guta - Ministerul Manelelor - Ola Chiquita.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Alex Botea - Iar mi-am suparat iubita.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Fancy.mp3
+2025-08-28T21:56:07 update: added Manele/Florin Salam - Tzanca Uraganu - Regii NFT.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Costel Biju - S-a lipit de pieptul meu.mp3
+2025-08-28T21:56:07 update: added Manele/Florin Salam - Nek - Fiti Pe Faza.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - El chapo.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Costel Biju - Meneaito.mp3
+2025-08-28T21:56:07 update: added Manele/Gami - Bogdan DLP - Iahturi Limuzine.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Serena - Andrei Banuta - Mon Ami (#RaTaTa) - Remix.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - Manele VTM - Te-am visat mireasă.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Ramniceanu - Babasha - Ministerul Manelelor - Molotov.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Fac Deranj.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Țigancă de București.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - MIRAJ TZUNAMI - Tancuri blindate.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Raluka - Poate Asa Te Uit.mp3
+2025-08-28T21:56:07 update: added Manele/YNY Sebi - Bogdan DLP - Lamborghini.mp3
+2025-08-28T21:56:07 update: added Manele/Jimin - Who.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Costel Biju - E Buna Rau Pe Basi.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Are Ea Ceva.mp3
+2025-08-28T21:56:07 update: added Manele/Dzws - Vanilla - Dj Nattan - Prietena Ta.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Blonda.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - O Iubita De-o Zi.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Ionut Florea - Nasu nu se uita la hartii.mp3
+2025-08-28T21:56:07 update: added Manele/Andrei G - Ministerul Manelelor - Vreau doar să te.mp3
+2025-08-28T21:56:07 update: added Manele/Rares - Bogdan Dlp - Guli Guli - From 'buzz House' The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Sufletul de Vagabond - Cover Andrei Banuta.mp3
+2025-08-28T21:56:07 update: added Manele/Shondy - Bogdan DLP - Motivul Principal.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Talento Bari.mp3
+2025-08-28T21:56:07 update: added Manele/Nikolas - Manele Mentolate - Jumătatea Mea.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Jador - Buze.mp3
+2025-08-28T21:56:07 update: added Manele/Adrian Norocel - Aoleu ce da din ea.mp3
+2025-08-28T21:56:07 update: added Manele/Rares - Bogdan Dlp - La Tine Și La Bani - From 'romina Vtm' The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Nikolas - Manele Mentolate - Diamante Roz.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Willy DLO - Da-i Drumul La Balans.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Dimineata Cand Sunt Beat.mp3
+2025-08-28T21:56:07 update: added Manele/Nikolas - Manele Mentolate - Inima Mea.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Costi - Cireşica.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Dulceata Buzelor.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Brasileiro.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Adrian Minune - Galileo Galilei.mp3
+2025-08-28T21:56:07 update: added Manele/Aerozen - FARMACISTA.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Elys - Pui foc pe inimioara mea.mp3
+2025-08-28T21:56:07 update: added Manele/Alex Botea - Fetele din mahala.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - China.mp3
+2025-08-28T21:56:07 update: added Manele/Antonio Marcu - Luis Gabriel - Hey Siri.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Buna Seara as Vrea.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - S-Au Unit Legendele.mp3
+2025-08-28T21:56:07 update: added Manele/Adrian Norocel - NUMAI FEMEI.mp3
+2025-08-28T21:56:07 update: added Manele/BLACKPINK - JUMP.mp3
+2025-08-28T21:56:07 update: added Manele/YNY Sebi - Bogdan DLP - Regele tarabanelor - From “Romina VTM” The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Geany Morandi - Ti-am luat cercei ti-am luat inele.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Pe un pat.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Rusia.mp3
+2025-08-28T21:56:07 update: added Manele/Johny Romano - E Mult - E Greu!.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Ramniceanu - Ministerul Manelelor - Creola.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - -15 Grade.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Fa spagatu.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Nuca - Letty - Doar La Ea - Ba La Ea.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Dale Dale.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan De La Ploiesti - Costel Biju - Fara Mine N-Ai Semnal.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Cât vrei tu.mp3
+2025-08-28T21:56:07 update: added Manele/Emilian - Theo Rose - De 3 zile nu am somn.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Alo baza baza.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Nikolas Sax - Cristina Pucean - Favorita.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Mareste Zumu.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Va Fac Mototol.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Manele Mentolate - Skinny.mp3
+2025-08-28T21:56:07 update: added Manele/Theo Rose - A venit poliția - From 'Candidatul perfect' The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Denis Ramniceanu - Stewardese tatuate.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Te-am vazut fara inel.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Bax Banii.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Costel Biju - Hai Sa Facem Copii.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Florin Salam - Te Iubesc De Nu Te Vezi.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Cristi Mega - Arde.mp3
+2025-08-28T21:56:07 update: added Manele/Nikolas - Vali Vijelie - Iuly Neamtu - Manele Mentolate - Am Finete La Obraz.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Manele Mentolate - Antalya.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Kalif - Creola.mp3
+2025-08-28T21:56:07 update: added Manele/Alex Botea - Costel Biju - Dema Mamo.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Ramniceanu - Ministerul Manelelor - Bipolară.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Ce Melodie Pe Fundal.mp3
+2025-08-28T21:56:07 update: added Manele/Miraj Tzunami - Am probleme la mansarda.mp3
+2025-08-28T21:56:07 update: added Manele/Adrian Norocel - E Wow.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Amantul Tau Fidel.mp3
+2025-08-28T21:56:07 update: added Manele/Rares - Cel Mai Fericit De Pe Pǎmant.mp3
+2025-08-28T21:56:07 update: added Manele/Cocos de la Calarasi - Vali Vijelie - Iuly Neamtu - Manele Mentolate - Maldive.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Andrei G - Ministerul Manelelor - HOT - From Miami Bici 2 The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Majii - Bogdan DLP - Amintirea ta - Balkan Version.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Florin Cercel - Caraibe.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Tenerife.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Se Misca Brrr.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Condamnare.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Cristina Pucean - Macarena.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Ochii Tai.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Beto - Nebuna - Da' Buna!.mp3
+2025-08-28T21:56:07 update: added Manele/Nikolas Sax - Da-i bombardamente.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Tigrata.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Toata Romania.mp3
+2025-08-28T21:56:07 update: added Manele/Florin Salam - Mr Juve - Foc - foc - foc.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Rup Topurile.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - Manele VTM - Te vreau.mp3
+2025-08-28T21:56:07 update: added Manele/Narcisa - Lele - Ce N-as Da.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Am Luat Cina Cu Vecina.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Manele Mentolate - Banii.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Aoleu.mp3
+2025-08-28T21:56:07 update: added Manele/Ursaru - Mo Ilo.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - ROBY ONEE - N-ai vrut tigan.mp3
+2025-08-28T21:56:07 update: added Manele/Aerozen - sexyZ.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - YNY Sebi - COLA.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Cine N-a Gresit Vreodata.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Sugar Daddy.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Tu Tu Tu.mp3
+2025-08-28T21:56:07 update: added Manele/Rava - Adelinmm - Shegondie.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Alo - mama.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Kristiyana - Cu mine te stie lumea.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - De-as Avea Smecherometru.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Zanni - Obsesia.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - Nikolas - Ce mai karma am avut.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Habibi.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Locația.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Iepurasa coconasa.mp3
+2025-08-28T21:56:07 update: added Manele/Alex Botea - Romeo si Julieta.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Hitana.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Hai sa ne iubim ca nemtii.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Nikolas - Zeita Din Olimp.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Noaptea Golanii.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Stop Romania.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Pustoaica de Dorobanti.mp3
+2025-08-28T21:56:07 update: added Manele/Sorinel Pustiu - Bogdan DLP - Alex Botea - Te Duc La Constanta.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Costi - Andrea Bulgaria - Carola.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Zanni - Suntem Foarte Bucuresti.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Sheik - Vorba Francezului - From 'Buzz House' The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Nebunia lui Babasha.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Buzele Cu Rosu Inchis.mp3
+2025-08-28T21:56:07 update: added Manele/Huntrx - Ejae - Audrey Nuna - Rei Ami - Kpop Demon Hunters Cast - Golden.mp3
+2025-08-28T21:56:07 update: added Manele/Samanta - Tzanca Uraganu - Alo Alo.mp3
+2025-08-28T21:56:07 update: added Manele/AdelinMM, RAVA - SELFWASH.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Serpi.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Ciocolata.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Ochii Tai Albastri.mp3
+2025-08-28T21:56:07 update: added Manele/Leo de la Rosiori - Am tras draperiile - Live.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Vara-i vara.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Gheboasă - Manele Mentolate - Austria.mp3
+2025-08-28T21:56:07 update: added Manele/Karmen - Bogdan DLP - Complicat.mp3
+2025-08-28T21:56:07 update: added Manele/Gya - Babasha - Baklava.mp3
+2025-08-28T21:56:07 update: added Manele/Cristi Mega - Janes Romanes.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Fake.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Nadir - Tzanca Uraganu - Paranoia.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Ochii Tai.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - Bine Ai Venit in Balcani.mp3
+2025-08-28T21:56:07 update: added Manele/What's Up - Bogdan DLP - Toate Fetele.mp3
+2025-08-28T21:56:07 update: added Manele/Narcisa - Tzanca Uraganu - Iubi Cu Mine Nu-Ti Merge.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Ministerul Manelelor - Berechet - Caramelizată.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Mgk666 - Libera.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Tomberonul.mp3
+2025-08-28T21:56:07 update: added Manele/Andrei G - Ministerul Manelelor - Ping Pong.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Omar Arnaout - Am Un Foc La Inimioara.mp3
+2025-08-28T21:56:07 update: added Manele/Haralambie Gabriel - Cocos de la Calarasi - Manele Mentolate - Carolina Herrera.mp3
+2025-08-28T21:56:07 update: added Manele/Cocos de la Calarasi - Manele Mentolate - Dubai.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Esti Genul Meu.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Shaggy - Costi - Trbaka.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Amore.mp3
+2025-08-28T21:56:07 update: added Manele/YNY Sebi - Bogdan DLP - Tarabanele.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Regele Junglei.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Bona.mp3
+2025-08-28T21:56:07 update: added Manele/Omar Arnaout - Adrian Norocel - Mă rupe rău.mp3
+2025-08-28T21:56:07 update: added Manele/Alex Botea - Mana stanga sus.mp3
+2025-08-28T21:56:07 update: added Manele/Leo de la Kuweit - Du-ma Waze-ule.mp3
+2025-08-28T21:56:07 update: added Manele/Mariano - Sistemul de vara - Live.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Tratamente.mp3
+2025-08-28T21:56:07 update: added Manele/Alex Velea - Bogdan DLP - BlvckMatias - Fitzoaso.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Filipineza.mp3
+2025-08-28T21:56:07 update: added Manele/What's Up - Laura Vass - Jador - Unfollow.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Cu Lumina Stinsa.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Marae.mp3
+2025-08-28T21:56:07 update: added Manele/Theo Rose - Bogdan DLP - Fara Tine.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - La înălțime.mp3
+2025-08-28T21:56:07 update: added Manele/Zenys - Tzanca Uraganu - Arfele figurile.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Revelionu'.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Figaro.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Amo - Amo.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - Banca Mondială.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Chupa-Chups.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Ramniceanu - Ministerul Manelelor - Merhaba (Stil Turcesc).mp3
+2025-08-28T21:56:07 update: added Manele/Dj Magic Romania - Tzanca Uraganu - Baga Tic Tac.mp3
+2025-08-28T21:56:07 update: added Manele/Eva Timush - Oscar - Fantasy.mp3
+2025-08-28T21:56:07 update: added Manele/Leo de la Kuweit - Camelia Dumitrache - MAYO - Te-as suna.mp3
+2025-08-28T21:56:07 update: added Manele/Polly - Bogdan Dlp - Cum Ma Tu.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Sheik - Eee Aaa  Burj Khalifa.mp3
+2025-08-28T21:56:07 update: added Manele/Andrei G - Costel Biju - Ministerul Manelelor - Coco.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Vino să te f.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Dansez.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Zi-mi cine.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Ramniceanu - Real Skitt - Da-le fum.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Ma faci sa poftesc la tine.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - O Zi.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Havana.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Test Drive.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Vipera.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Regina din afaceri ilegale.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Ceașcă de cafea.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Scot dusmanii la bordura.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Surubu.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Alex Velea - Ebal - From “Romina VTM” The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Carmen de la Salciua - BlvckMatias - Nu Am Somn de 4 Zile.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Very - Very Primaverii.mp3
+2025-08-28T21:56:07 update: added Manele/Florin Salam - Costel Biju - Buna buna rau de tot.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - 24 De Karate.mp3
+2025-08-28T21:56:07 update: added Manele/AdelinMM, RAVA - AZALEEA.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Mama dolarii.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Hermenotis - Ministerul Manelelor - Cheeky.mp3
+2025-08-28T21:56:07 update: added Manele/Nicolae Guta - A innebunit planeta.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Hai ca m-ai sedus.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Kawasaki.mp3
+2025-08-28T21:56:07 update: added Manele/Aurora Baran - Mainile Tale Calde.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Păi naa.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Laura Bruma - Ministerul Manelelor - Buze de Hollywood.mp3
+2025-08-28T21:56:07 update: added Manele/YNY Sebi - Adrian Norocel - Dame Tu Cosita Mamacita.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Casablanca.mp3
+2025-08-28T21:56:07 update: added Manele/Sami G - Johny Romano - Iarta-ma Mamo.mp3
+2025-08-28T21:56:07 update: added Manele/Gya - E Adevărat.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Ministerul Manelelor - Totul meu - Balkanic Version.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Iarta-ma Mamo - Live.mp3
+2025-08-28T21:56:07 update: added Manele/Sami G - Badd G - Arunca-ma La Lei.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Cum O Dai Tu.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Manele Mentolate - Te ia.mp3
+2025-08-28T21:56:07 update: added Manele/Denis Ramniceanu - English Tallava - From BUZZ HOUSE- The Movie 2.mp3
+2025-08-28T21:56:07 update: added Manele/Valentino - Bebe.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Iuly Neamtu - Manele Mentolate - LUPII (Au Au Au).mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Sheik - Centura Roșie.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Se Misca Beat.mp3
+2025-08-28T21:56:07 update: added Manele/Alex Botea - Sauditii.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - EX.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Bum am aparut.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Sarutul Tau.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - Manele VTM - Vocea ta.mp3
+2025-08-28T21:56:07 update: added Manele/Nicolae Guta - Eu cu cineva - tu cu altcineva.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Viata Exclusivista.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Formula 1.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Seen.mp3
+2025-08-28T21:56:07 update: added Manele/Andrei G - Lele - Ministerul Manelelor - Dale.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Theo Rose - Vina Mea.mp3
+2025-08-28T21:56:07 update: added Manele/Babasha - Ministerul Manelelor - Yali - Yali.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Mie de ea.mp3
+2025-08-28T21:56:07 update: added Manele/Miraj Tzunami - Carnet de smecher.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Gheboasă - Criminal.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Elys - Pastila de love.mp3
+2025-08-28T21:56:07 update: added Manele/Nikolas - Haralambie Gabriel - 7 trupuri în extaz.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Bagabond Asa Ma Vrea.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Anuryh - Florin Salam - Pe La Spate.mp3
+2025-08-28T21:56:07 update: added Manele/Geany Morandi - Ne merge bine.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Afrodisiac.mp3
+2025-08-28T21:56:07 update: added Manele/Andrei G - Nikolas - Ministerul Manelelor - Rupe-te în dansuri.mp3
+2025-08-28T21:56:07 update: added Manele/andrei - DZWS - BEN - SUNETE 2.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Ferrari.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Lacrimi de miliardar.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Costel Biju - Manele Mentolate - Noapte bună.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Gipsy Style.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Mr. Juve - Damelo.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Amnezie.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Manele Mentolate - Susținem Ucraina.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Haziran - Vin Sa Te Fur.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Fato.mp3
+2025-08-28T21:56:07 update: added Manele/Gya - Africa.mp3
+2025-08-28T21:56:07 update: added Manele/Tony One - Costel Biju - Sistem Otoman.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Cafeluta cu noroc.mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - Ban pe ban.mp3
+2025-08-28T21:56:07 update: added Manele/Sombr - Back To Friends.mp3
+2025-08-28T21:56:07 update: added Manele/Lazy Ed - Mario  - Îmi place când - From 'Situationship'.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Vara.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Tzanca Uraganu - Costel Biju - RACHETA.mp3
+2025-08-28T21:56:07 update: added Manele/Leo de la Rosiori - Oameni buni sa nu uitati.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Vali Vijelie - Tu Ma Duci Cu Zaharelu.mp3
+2025-08-28T21:56:07 update: added Manele/Lele - O Noapte in Medellin.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Claudia Puican - Inima sau Banii.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Vagabond.mp3
+2025-08-28T21:56:07 update: added Manele/Tzanca Uraganu - Bombele.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Lalele mentolate - From 'Romina VTM' The Movie.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Te duceam la Han,te duceam la Mia.mp3
+2025-08-28T21:56:07 update: added Manele/Cristi Mega - Hazul si figurile.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Bogdan De La Ploiesti - Consumator.mp3
+2025-08-28T21:56:07 update: added Manele/Haidin - Alea de la București.mp3
+2025-08-28T21:56:07 update: added Manele/Rares - Tzanca Uraganu - Sheik - Rares Bebelusul - Regele - From Buzz House- The Movie 2.mp3
+2025-08-28T21:56:07 update: added Manele/Jador - Manele Mentolate - Fana.mp3
+2025-08-28T21:56:07 update: added Manele/Costel Biju - Printesa Din Dubai.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Un foc.mp3
+2025-08-28T21:56:07 update: added Manele/Bogdan DLP - Afacere.mp3
+2025-08-28T21:56:07 update: added Manele/Alessandra - Babasha - Am un secret.mp3
+2025-08-28T21:56:07 update: added Manele/Luis Gabriel - Domnisoara (Foc - Foc).mp3
+2025-08-28T21:56:07 update: added Manele/Dani Mocanu - JAY MALY - Costi - Bella.mp3
+2025-08-28T21:56:07 update: added Manele/Iuly Neamtu - Manele Mentolate - Yabadabadu.mp3
+2025-08-28T21:56:07 update: added Youtube/G-Unit - Poppin' Them Thangs (Explicit Version).mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Panica rau.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Goana dupa iluzii.mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris - Rollout (My Business) (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Eminem -  Skylar Grey - I Need A Doctor.mp3
+2025-08-28T21:56:07 update: added Youtube/Puff Daddy - Can't Nobody Hold Me Down (feat. Mase) (Official Music Video) [HD].mp3
+2025-08-28T21:56:07 update: added Youtube/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Cum sa jignesti o femeie (nr.39).mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac – Wanted Dead Or Alive (ft. Snoop Dogg & Charlie Wilson) (Explicit) [HD].mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Toate Nevestele [ Hidden Track ].mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii feat Anonim, Rasa, Nimeni Altu', Griffo & Anexa 1 - Actiunea Instrumentalul(nr.62).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii  feat Anonim & Spike - Maraton 20CM (nr.43).mp3
+2025-08-28T21:56:07 update: added Youtube/The Message.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - In Corpore Sano.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Unii Sug P#@.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Terapie (Prod. de Omu Gnom).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Fara tine feat Bitza (nr.67).mp3
+2025-08-28T21:56:07 update: added Youtube/D12 - Purple Pills (Explicit) HD.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Lose Yourself.mp3
+2025-08-28T21:56:07 update: added Youtube/N.O.R.E. - Nothin' (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Trei agenti (cu Cheloo si FDD).mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris - Get Back.mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - In Realitate (cu Guz) ｜ Videoclip Oficial.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Prezentul Perfect.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Beat box din dragoste in alte feluri (nr.60).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Definitia 24378.mp3
+2025-08-28T21:56:07 update: added Youtube/Nas - The World Is Yours (Official HD Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Nivel inalt (feat. Pachaman & DJ Dox).mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Hittman -  Six-Two -  Nate Dogg -  Kurupt - Xxplosive.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL -  Maximilian -  Mario - Elegant.mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Snoop Dogg - Nuthin' But A 'G' Thang.mp3
+2025-08-28T21:56:07 update: added Youtube/Paraziții - Poliția trece (Videoclip Oficial).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Imi pare rau (nr.72).mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre - Keep Their Heads Ringin'.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Mortal.mp3
+2025-08-28T21:56:07 update: added Youtube/Scarface - On My Block (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL Dans Murdar.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Dupa Blocuri (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem -  Dr. Dre -  Snoop Dogg -  Xzibit -  Nate Dogg - Bitch Please II.mp3
+2025-08-28T21:56:07 update: added Youtube/Smiley - Am bani de dat (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Lil Jon & The East Side Boyz - Get Low (feat. Ying Yang Twins) (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/BOMBA FANTASTIC - (Remix).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Viata buna.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Fericit (feat Guess Who).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Nico - Cartieru' Pantelimon.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo -  Bitza - Vicii.mp3
+2025-08-28T21:56:07 update: added Youtube/Faust -  Nechifor -  Vlad Dobrescu - Fără Panică.mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris -  Nate Dogg - Area Codes.mp3
+2025-08-28T21:56:07 update: added Youtube/Late Night Hype.mp3
+2025-08-28T21:56:07 update: added Youtube/Guess Who - Onoare.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Nu Te Sufar.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Pun punct.mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre - Xxplosive (feat Hittman, Kurupt, Nate Dogg & Six Two).mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL -  AMI - Deja Vu.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo -  Rimaru - Alarma falsa.mp3
+2025-08-28T21:56:07 update: added Youtube/Fabolous -  Mike Shorey -  Lil' Mo - Can't Let You Go (feat. Mike Shorey & Lil' Mo).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Te sparg la buci.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Avort verbal (nr.70).mp3
+2025-08-28T21:56:07 update: added Youtube/Only Fear Of Death.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - In Anii Ce Au Trecut (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Vorbe (cu Uzzi) ｜ Videoclip Oficial.mp3
+2025-08-28T21:56:07 update: added Youtube/Zale Feat Pacha Man - Shut'em Up (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Ami -  Grasu XXL - 3 Lucruri.mp3
+2025-08-28T21:56:07 update: added Youtube/Puya - Sus Pe Bar (feat. Alex) (DJ Grass Remix).mp3
+2025-08-28T21:56:07 update: added Youtube/Ice Cube - Ghetto Bird.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Dac-as fi presedinte (nr.65).mp3
+2025-08-28T21:56:07 update: added Youtube/DMX - Ruff Ryders' Anthem.mp3
+2025-08-28T21:56:07 update: added Youtube/Mary J. Blige - Family Affair (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Puya - Cat a trait.mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - Many Men (Wish Death) (Dirty Version).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia feat. Bibanu MixXL & Cedry2k - Consecinte ｜ Videoclip Oficial.mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre - The Next Episode (Official Music Video) ft. Snoop Dogg, Kurupt, Nate Dogg.mp3
+2025-08-28T21:56:07 update: added Youtube/Lil Wayne - Lollipop (Official Music Video) ft. Static.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Fakeri (nr.58).mp3
+2025-08-28T21:56:07 update: added Youtube/Delinquent Habits - Return of the Tres.mp3
+2025-08-28T21:56:07 update: added Youtube/Blackstreet -  Dr. Dre -  Queen Pen - No Diggity.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Bum.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Marfa curata.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  M&G - Mafia si M&G.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Limbaj De Cartier (feat. Cheloo) (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Realitate.mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - Outta Control ft. Mobb Deep.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Glume de cacat (nr.68).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Cand Trandafirii Mor (feat. Lucian Colareza) (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Eminem -  Xzibit - What's The Difference.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - The Real Slim Shady.mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris - How Low.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Din coltul blocului.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Inainte Sa Plec.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Lectii particulare.mp3
+2025-08-28T21:56:07 update: added Youtube/P. Diddy [feat. Nelly & Murphy Lee] - Shake Ya Tailfeather (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Aspiratii.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon  -  5432.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Adriana Vlad - Viata noastra.mp3
+2025-08-28T21:56:07 update: added Youtube/Bitza - Strain in tara mea.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem -  Dido - Stan.mp3
+2025-08-28T21:56:07 update: added Youtube/Joe Budden - Pump It Up (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Arde feat.Cainele (nr.9).mp3
+2025-08-28T21:56:07 update: added Youtube/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Ramanem prieteni.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim feat. Parazitii - Extrema zilei.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Teava - Interludiu.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Parazitii - Extrema Zilei.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Visam.mp3
+2025-08-28T21:56:07 update: added Youtube/T.I. - Bring Em Out (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - 21 Questions (Official Music Video) ft. Nate Dogg.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Tu.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Lumea s-a schimbat (Videoclip Oficial).mp3
+2025-08-28T21:56:07 update: added Youtube/Ice Cube - Hello (feat. Dr. Dre & MC Ren).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Degeneratia Urmatoare (nr.84).mp3
+2025-08-28T21:56:07 update: added Youtube/Guess Who - Eu, Tu si Restu'....mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Încă o poveste.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Categoria Grea feat Aliosha (nr.71).mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Înger și demon.mp3
+2025-08-28T21:56:07 update: added Youtube/guess who feat spike & grasu xxl - tu.mp3
+2025-08-28T21:56:07 update: added Youtube/Lil Flip - Rollin On 20's.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Niciodata.mp3
+2025-08-28T21:56:07 update: added Youtube/Bitza - Sinuciderea unui inger (feat L. Doc).mp3
+2025-08-28T21:56:07 update: added Youtube/Fat Joe - What's Luv？ ft. Ashanti.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Sing For The Moment.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Limpede (Prod. de Omu Gnom) (videoclip oficial).mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  Spike -  Freakadadisk - Probleme personale.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - N-Ai Fost Acolo.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL -  MaRI - Fara Filtru.mp3
+2025-08-28T21:56:07 update: added Youtube/Anabolic Beatz - Beware - Rap Freestyle Beat.mp3
+2025-08-28T21:56:07 update: added Youtube/Puff Daddy [feat. Faith Evans & 112] - I'll Be Missing You (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Lil Wayne - A Milli.mp3
+2025-08-28T21:56:07 update: added Youtube/Cedry2k - Horror Din Berceni.mp3
+2025-08-28T21:56:07 update: added Youtube/Fuck What a Nigga Say....mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia -  Don Baxter -  Cabron - Zi de zi.mp3
+2025-08-28T21:56:07 update: added Youtube/Bitch Please II.mp3
+2025-08-28T21:56:07 update: added Youtube/Kurupt -  Tray Dee -  Slip Capone - C-Walk.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Liceenii Rock'n'Roll.mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - Ratha Be Ya N.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Exorcistu-n izmene (feat. Spike).mp3
+2025-08-28T21:56:07 update: added Youtube/Bitza feat Cheloo - Vorbeste vinul (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Tot in Familie ｜ Videoclip Oficial.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  Bitza -  Freakadadisk - Vecinului lui Cheloo.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Cheia de sub pres.mp3
+2025-08-28T21:56:07 update: added Youtube/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris - What's Your Fantasy ft. Shawnna.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Show.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Litoral.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Bitza - Panarame.mp3
+2025-08-28T21:56:07 update: added Youtube/Bizar Feat. Cheloo.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Operatiunea cur pansat.mp3
+2025-08-28T21:56:07 update: added Youtube/G-Unit -  Joe - Wanna Get To Know You.mp3
+2025-08-28T21:56:07 update: added Youtube/Gettin' It.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Strazile feat. Mario V (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Tango.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL feat. Mario - Elegant.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Comunitatea.mp3
+2025-08-28T21:56:07 update: added Youtube/Codu' Penal - Gangsta Rap (feat. Puya).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo -  DJ Dox -  Pacha Man - Nivel inalt.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - CelCareUrăște.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Roxana - Capu' sus.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Gloante oarbe (cu Arssura).mp3
+2025-08-28T21:56:07 update: added Youtube/Cabron -  Don Baxter - Femei.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Ramane scris.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - O Lume Nebuna, Nebuna De Tot (feat. ViLLy) (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/Jennifer Lopez -  Jadakiss -  Styles P - Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Catalin - Progres.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Reflectii inainte de lesin.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL - Tu -  Mărie! - Bonus Track.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Pretext.mp3
+2025-08-28T21:56:07 update: added Youtube/Hidrobicicleta.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Arma secreta.mp3
+2025-08-28T21:56:07 update: added Youtube/The Notorious B.I.G. - Big Poppa (Official Music Video) [HD].mp3
+2025-08-28T21:56:07 update: added Youtube/Streiht Up Menace.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Tine-O Tot Asa.mp3
+2025-08-28T21:56:07 update: added Youtube/Jos Jos Jos.mp3
+2025-08-28T21:56:07 update: added Youtube/Puya feat. George Hora - Undeva in Balkani.mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - Candy Shop (Official Music Video) ft. Olivia.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Așa rămân.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL - La adapost ( ft Villy ).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii feat  Spike - Rau sau bun (nr.40).mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Cleanin' Out My Closet.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  Bitza - Panarame.mp3
+2025-08-28T21:56:07 update: added Youtube/Kanye West - Mercy (Explicit) ft. Big Sean, Pusha T, 2 Chainz.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - N-am plecat.mp3
+2025-08-28T21:56:07 update: added Youtube/Ice Cube - You Know How We Do It.mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - In Da Club (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Guess Who -  De Moga - Tot Mai Sus (feat. De Moga).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Tupeu de borfas cu Marijuana.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Hash thug rezist.mp3
+2025-08-28T21:56:07 update: added Youtube/Missy Elliott - Get Ur Freak On [Official Music Video].mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Fara resentimente (nr.25).mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem -  Jelly Roll - Somebody Save Me.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Anturaju'.mp3
+2025-08-28T21:56:07 update: added Youtube/Fresh ｜ Yellowbase ｜ awesome hip hop song.mp3
+2025-08-28T21:56:07 update: added Youtube/R. Kelly - Thoia Thoing.mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Am un plan - 2007 Version.mp3
+2025-08-28T21:56:07 update: added Youtube/Jeremih -  50 Cent - Down On Me.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Dex 2000.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Poteca.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Luchian - La Furat (Toata Viata Mea) [feat. Luchian].mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Poezie De Strada (Remix) (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Warren G - Regulate (Official Music Video) ft. Nate Dogg.mp3
+2025-08-28T21:56:07 update: added Youtube/San Andreas Cover Remake - 200K Subs Special!.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Am comis-o din nou (nr.64).mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - My Name Is.mp3
+2025-08-28T21:56:07 update: added Youtube/Jeremih - Down On Me ft. 50 Cent.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3
+2025-08-28T21:56:07 update: added Youtube/Sisu & Puya - Dependent (cu Shobby si Cabron).mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - All Eyez on Me.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom -  Catalin de la Coma - AI.mp3
+2025-08-28T21:56:07 update: added Youtube/Irina Rimes -  Grasu XXL - Pentru totdeauna.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Pantelimonu' Petrece (feat. Adriana Vlad) (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/Cedry2k Partea întunecată a lumii (cu Pietonu).mp3
+2025-08-28T21:56:07 update: added Youtube/Lil' Flip - Sunshine (Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Violent - Original.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL - ＂Da-te mai asa＂ (videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - Ambitionz Az a Ridah 2.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii -  Câinele - Arde.mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris - Act A Fool.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Romania nevinovata (cu creTzu) ⧸⧸prod. de Omu Gnom.mp3
+2025-08-28T21:56:07 update: added Youtube/Terror Squad - Lean Back (Official Music Video) ft. Fat Joe, Remy Ma.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Plesa - Interludiu.mp3
+2025-08-28T21:56:07 update: added Youtube/Nas - Street Dreams (Official HD Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Shit Hits The Fan.mp3
+2025-08-28T21:56:07 update: added Youtube/Codu' Penal -  Nico - Singur Pe Strada.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo -  Guess Who - Sindromul Tourette.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Romaneste (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/Westside Story.mp3
+2025-08-28T21:56:07 update: added Youtube/Xzibit ft. Eminem & Nate Dogg - My Name.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Doar un cuvânt.mp3
+2025-08-28T21:56:07 update: added Youtube/Dogg Pound & Snoop Doggy Dogg - What Would You Do？.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Exces Pervers (feat. XXL&10Grei & Villy) (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu' - Nimeni Altu'  [videoclip].mp3
+2025-08-28T21:56:07 update: added Youtube/Jennifer Lopez  ft. Ja Rule - I'm Real (Remix) _Official Video_.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Lăutarul din beci.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Nascut Si Crescut In Pantelimon (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Codu' Penal - Tramvaiul 4.mp3
+2025-08-28T21:56:07 update: added Youtube/Don Baxter - Show-Bizz.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL -  Maximilian -  Spike - Didaia (TraLaLa) [feat. Maximilian & Spike].mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Degeneratia Urmatoare.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - In focuri (nr.46).mp3
+2025-08-28T21:56:07 update: added Youtube/The Beatnuts  - Se Acabo Remix feat. Method Man - Classic Nuts Vol. 1.mp3
+2025-08-28T21:56:07 update: added Youtube/Westside Connection - Bow Down.mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac ft. Dr. Dre and Roger Troutman - California Love (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - Nate Dogg - 21 Questions.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  raku - Egali din nastere.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Amintiri.mp3
+2025-08-28T21:56:07 update: added Youtube/Fugees - Ready or Not.mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - Picture Me Rollin' (feat. Big Syke, CPO & Danny Boy Steward).mp3
+2025-08-28T21:56:07 update: added Youtube/Sisu & Puya  - Mai Vrei (cu C.I.A. si Alex) (Versiune Album).mp3
+2025-08-28T21:56:07 update: added Youtube/DMX - Get It On The Floor (Official Music Video) ft. Swizz Beatz.mp3
+2025-08-28T21:56:07 update: added Youtube/Ice Cube - It Was A Good Day.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Nopți prea lungi.mp3
+2025-08-28T21:56:07 update: added Youtube/Biggie Smalls - Notorious Thugs.mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - Just A Lil Bit.mp3
+2025-08-28T21:56:07 update: added Youtube/Cedry2k -  Rashid - Roman Sadea.mp3
+2025-08-28T21:56:07 update: added Youtube/Payback (Da-Te-N gatu' matii).mp3
+2025-08-28T21:56:07 update: added Youtube/Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) (Remix).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Asta e rap.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Acordeonu la maxim (nr.66).mp3
+2025-08-28T21:56:07 update: added Youtube/Warren G ＂Party We Will Throw Now＂ Ft. Nate Dogg & The Game ｜ Official Music Video.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Standarde (nr.42).mp3
+2025-08-28T21:56:07 update: added Youtube/Ice Cube - Friday.mp3
+2025-08-28T21:56:07 update: added Youtube/Bearded Skull - 30´s.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Vreau înapoi.mp3
+2025-08-28T21:56:07 update: added Youtube/Hypnotize (2007 Remaster).mp3
+2025-08-28T21:56:07 update: added Youtube/Bitza - 10 Degete.mp3
+2025-08-28T21:56:07 update: added Youtube/JAY-Z -  Alicia Keys - Empire State Of Mind.mp3
+2025-08-28T21:56:07 update: added Youtube/Cedry2k - Sacrificii.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Lumina De La Capătul Tunului.mp3
+2025-08-28T21:56:07 update: added Youtube/Macanache - Eu Dau Graffiti.mp3
+2025-08-28T21:56:07 update: added Youtube/Andia, Guess Who - Pietre Pretioase.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Till I Collapse Feat. Nate Dogg [OFFICIAL MUSIC VIDEO].mp3
+2025-08-28T21:56:07 update: added Youtube/My Life, My World.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - La Greu.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Cel mai prost din curtea scolii.mp3
+2025-08-28T21:56:07 update: added Youtube/Cedry2k -  Carbon -  Pacha Man - Decapitalism.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Clar.mp3
+2025-08-28T21:56:07 update: added Youtube/Legendele.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL - Turbofin.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Un 2 Si Trei De 0 (feat. ViLLy) (Prod. Tata Vlad) (Videoclip).mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Raperi de căcat.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Luchian -  XXL& 10 Grei -  Primo -  Mahsat - Iarba si alcool.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Metehne II.mp3
+2025-08-28T21:56:07 update: added Youtube/Confidential (feat. Bitza).mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre - Still D.R.E. ft. Snoop Dogg.mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - Troublesome '96 (Lyrics).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Mario V - 40 kmh.mp3
+2025-08-28T21:56:07 update: added Youtube/Sam Sneed - U Better Recognize Ft. Dr Dre (Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Luchian - Celebrii Anonimi.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Muie Garda (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  Arssura - Gloante oarbe.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Daca pozele ar vorbi.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike -  Cheloo - Semnale.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Jos cenzura.mp3
+2025-08-28T21:56:07 update: added Youtube/Katy Perry -  Juicy J - Dark Horse.mp3
+2025-08-28T21:56:07 update: added Youtube/When It Rains It Pours.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia  - Estu' Salbatic (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Cine vine.mp3
+2025-08-28T21:56:07 update: added Youtube/Paraziții feat. Larry Flint.mp3
+2025-08-28T21:56:07 update: added Youtube/Ludacris -  Shawnna - What's Your Fantasy (Featuring Shawna).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Apel la sinceritate (Videoclip Oficial).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo -  Freakadadisk - Dejectii obsesive.mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ - Și Când O Fi.mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Snoop Dogg - The Next Episode.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Instigare la Cultura.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Ultimul tren.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Fără pic de regie (feat. Ombladon si Freakadadisk).mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Mockingbird.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Slalom printre cretini (nr.17).mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Must Be The Ganja.mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Hittman -  Knoc-Turn'al - Bang Bang.mp3
+2025-08-28T21:56:07 update: added Youtube/Bitza & Grasu XXL - Fac ce vor.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  Guess Who - Noapte buna -  Bucuresti.mp3
+2025-08-28T21:56:07 update: added Youtube/Corina -  Dorian Popa - Nimeni altcineva.mp3
+2025-08-28T21:56:07 update: added Youtube/Outkast - Ms. Jackson (Official HD Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Fabolous - Can't Let You Go (feat. Mike Shorey & Lil' Mo) [Official Video].mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - O alta zi.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Intro.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Asa Cum Vreau.mp3
+2025-08-28T21:56:07 update: added Youtube/Feli -  Grasu XXL - Fostu'.mp3
+2025-08-28T21:56:07 update: added Youtube/Cedry2k - Balboa.mp3
+2025-08-28T21:56:07 update: added Youtube/Yellowbase - Fresh.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Dusmaniti-ma toti (nr.15).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Roxana - Mahoarca.mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL cu Mari, Maximilian si Paco - Fara filtru [REMiX].mp3
+2025-08-28T21:56:07 update: added Youtube/Nas - N.Y. State of Mind (Official Audio).mp3
+2025-08-28T21:56:07 update: added Youtube/Nimeni Altu’ -  Axes -  Feliz - Trecând peste toate.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Statul E Tarfa Cu Care Esti Obligat Sa Te-Nsori.mp3
+2025-08-28T21:56:07 update: added Youtube/G-Unit - Stunt 101.mp3
+2025-08-28T21:56:07 update: added Youtube/Warren G - This D.J. (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/F.Charm - Nimic Nu-I Intamplator.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Ultimul om.mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre -  Eminem - Forgot About Dre.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Outro.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - The Way I Am (Dirty Version).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Roxana Andronescu - Inapoi In Viitor.mp3
+2025-08-28T21:56:07 update: added Youtube/Full Option.mp3
+2025-08-28T21:56:07 update: added Youtube/13 Organisé - Je suis Marseille -Akhenaton_Shurik’n_ L’Algérino_Sch_Jul_Alonzo_Fahar_Le Rat Luciano_.mp3
+2025-08-28T21:56:07 update: added Youtube/Fat Joe -  Ja Rule -  Ashanti - What's Luv (feat. Ja-Rule & Ashanti).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Poveste Fara Sfarsit (feat. Jasmine) (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Hai Cu Mine (feat. Queen Bee) (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Dance.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Exprimare Libera (nr.45).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Antimilitie.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Daca eram....mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia -  Luchian -  Nico - A fost odata-n cartiere.mp3
+2025-08-28T21:56:07 update: added Youtube/Omu Gnom - Metehne (Prod. de Omu Gnom).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Orice-Ar fi..mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Hip Hop Romanesc (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Pacha Man - Acelaşi sânge ft. MoWeed.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Mama, mama.mp3
+2025-08-28T21:56:07 update: added Youtube/50 Cent - P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - De ziua ta (nr.24).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Cand o sa mor cu Sapro.mp3
+2025-08-28T21:56:07 update: added Youtube/Rick Ross - Hustlin' (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Ultimul buletin de stiri de la ora 5.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Ce N-Avem Acasă.mp3
+2025-08-28T21:56:07 update: added Youtube/M&G - În Ghetou.mp3
+2025-08-28T21:56:07 update: added Youtube/The Game - How We Do (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac, Outlawz - Hit 'Em Up - Single Version.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Timp Pentru Mine.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Semnale Feat. Cheloo.mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia -  Guz - În Realitate.mp3
+2025-08-28T21:56:07 update: added Youtube/Deliric - Sah mat [feat. DOC, Vlad Dobrescu].mp3
+2025-08-28T21:56:07 update: added Youtube/Grasu XXL -  Bitza - Fac Ce Vor.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Nu Mi-E Frică.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Vreau sa va doara (nr.14).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Strange-Ti bucile.mp3
+2025-08-28T21:56:07 update: added Youtube/Jin-Peel Off.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon -  Carbon - Metode clasice de sinucidere.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike -  Nicalai - Mai departe.mp3
+2025-08-28T21:56:07 update: added Youtube/Kardinal Offishall - Dangerous ft. Akon (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Kanye West -  Big Sean -  Pusha T -  2 Chainz - Mercy.mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - Can't C Me-1.mp3
+2025-08-28T21:56:07 update: added Youtube/Mahsat - O Vorba De Pe Strada (feat. XXL & 10 Grei & ViLLy) (Prod. Tata Vlad, Blatjargon).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Capitane, raportez!.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Felu meu de-a fi (nr.36).mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo - Reactii adverse (feat. Ombladon & Freakadadisk).mp3
+2025-08-28T21:56:07 update: added Youtube/Bitza -  K-Gula -  Vd -  DJ Paul - All star part one.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Drogurile schimba tot (nr.31).mp3
+2025-08-28T21:56:07 update: added Youtube/Dr. Dre - Natural Born Killaz (ft. Ice Cube) [Music Video] HD.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - 5000 De Zile (Prod. Tata Vlad).mp3
+2025-08-28T21:56:07 update: added Youtube/Guess Who - Unu Altu'.mp3
+2025-08-28T21:56:07 update: added Youtube/Blu Cantrell - Breathe (Video) ft. Sean Paul.mp3
+2025-08-28T21:56:07 update: added Youtube/Eminem - Without Me.mp3
+2025-08-28T21:56:07 update: added Youtube/Eve -  Gwen Stefani - Let Me Blow Ya Mind.mp3
+2025-08-28T21:56:07 update: added Youtube/Cardi B -  Megan Thee Stallion - WAP (feat. Megan Thee Stallion).mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon feat. Bitza - Jumatatea goala.mp3
+2025-08-28T21:56:07 update: added Youtube/Lloyd Banks -  Young Buck -  50 Cent -  G-Unit -  Sonny Digital - I'm The Man (feat. Sonny Digital).mp3
+2025-08-28T21:56:07 update: added Youtube/La Familia - Foame De Bani.mp3
+2025-08-28T21:56:07 update: added Youtube/The Notorious B.I.G. -  Lil' Kim -  Diddy - Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster.mp3
+2025-08-28T21:56:07 update: added Youtube/Spike - Banii.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Cu microfonul deschis feat Killa Kela and Mc Tripp (nr.18).mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Bagabonti 99.mp3
+2025-08-28T21:56:07 update: added Youtube/Old Man Saxon - Hell Yeah (Official Video).mp3
+2025-08-28T21:56:07 update: added Youtube/2Pac - So Many Tears (Official Music Video).mp3
+2025-08-28T21:56:07 update: added Youtube/Ice Cube - Gangsta Rap Made Me Do It.mp3
+2025-08-28T21:56:07 update: added Youtube/Blu Cantrell -  Sean Paul - Breathe (feat. Sean Paul) - Rap Version.mp3
+2025-08-28T21:56:07 update: added Youtube/Parazitii - Emotii.mp3
+2025-08-28T21:56:07 update: added Youtube/Ombladon - Made in Romania cu Nimeni Altu'.mp3
+2025-08-28T21:56:07 update: added Youtube/Nelly - Dilemma (Official Music Video) ft. Kelly Rowland.mp3
+2025-08-28T21:56:07 update: added Youtube/G-Unit - Smile.mp3
+2025-08-28T21:56:07 update: added Youtube/Anonim - Hai Sa Vorbim.mp3
+2025-08-28T21:56:07 update: added Youtube/DMX - X Gon' Give It To Ya.mp3
+2025-08-28T21:56:07 update: added Youtube/Cheloo feat. Margineanu - O zi ca oricare alta.mp3
+2025-08-28T21:56:07 update: added Youtube/B.U.G. Mafia - Doua Dube.mp3
+2025-08-28T22:00:27 player: played "Youtube/Omu Gnom - Reflectii inainte de lesin.mp3"
+2025-08-28T22:03:21 player: played "Youtube/Parazitii - Avort verbal (nr.70).mp3"
+2025-08-28T22:07:35 player: played "Youtube/La Familia -  Guz - În Realitate.mp3"
+2025-08-28T22:11:13 player: played "Youtube/Old Man Saxon - Hell Yeah (Official Video).mp3"
+2025-08-28T22:14:03 player: played "Youtube/F.Charm - Nimic Nu-I Intamplator.mp3"
+2025-08-28T22:20:28 player: played "Youtube/Cedry2k -  Carbon -  Pacha Man - Decapitalism.mp3"
+2025-08-28T22:23:46 player: played "Youtube/Parazitii - Fara resentimente (nr.25).mp3"
+2025-08-28T22:28:07 player: played "Youtube/B.U.G. Mafia - Romaneste (Prod. Tata Vlad) (Videoclip).mp3"
+2025-08-28T22:32:24 player: played "Youtube/guess who feat spike & grasu xxl - tu.mp3"
+2025-08-28T22:37:31 player: played "Youtube/2Pac - All Eyez on Me.mp3"
+2025-08-28T22:40:40 player: played "Youtube/Ombladon - Ultimul tren.mp3"
+2025-08-28T22:41:54 player: played "Youtube/Anonim - Mortal.mp3"
+2025-08-28T22:48:15 player: played "Youtube/Ombladon - Bitza - Panarame.mp3"
+2025-08-28T22:51:25 player: played "Youtube/B.U.G. Mafia -  Luchian - Celebrii Anonimi.mp3"
+2025-08-28T22:54:09 player: played "Youtube/Cheloo - CelCareUrăște.mp3"
+2025-08-28T22:58:11 player: played "Youtube/Grasu XXL feat. Mario - Elegant.mp3"
+2025-08-28T23:03:09 player: played "Youtube/B.U.G. Mafia -  Luchian -  XXL& 10 Grei -  Primo -  Mahsat - Iarba si alcool.mp3"
+2025-08-28T23:06:28 player: played "Youtube/Spike - Niciodata.mp3"
+2025-08-28T23:09:47 player: played "Youtube/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3"
+2025-08-28T23:13:53 player: played "Youtube/Dogg Pound & Snoop Doggy Dogg - What Would You Do？.mp3"
+2025-08-28T23:17:49 player: played "Youtube/Guess Who - Onoare.mp3"
+2025-08-28T23:22:44 player: played "Youtube/Westside Connection - Bow Down.mp3"
+2025-08-28T23:26:20 player: played "Youtube/Ombladon - N-am plecat.mp3"
+2025-08-28T23:32:16 player: played "Youtube/The Message.mp3"
+2025-08-28T23:39:41 player: played "Youtube/Jeremih -  50 Cent - Down On Me.mp3"
+2025-08-28T23:43:41 player: played "Youtube/Parazitii - Asa Cum Vreau.mp3"
+2025-08-29T05:50:03 player: played "Youtube/Omu Gnom - Comunitatea.mp3"
+2025-08-29T05:57:38 player: played "Youtube/Cedry2k - Balboa.mp3"
+2025-08-29T05:58:11 player: played "Youtube/B.U.G. Mafia -  Teava - Interludiu.mp3"
+2025-08-29T06:09:44 player: played "Youtube/Ludacris - What's Your Fantasy ft. Shawnna.mp3"
+2025-08-29T06:13:46 player: played "Youtube/When It Rains It Pours.mp3"
+2025-08-29T06:16:47 player: played "Youtube/Cheloo - Timp Pentru Mine.mp3"
+2025-08-29T06:21:49 player: played "Youtube/Ombladon -  Bitza - Panarame.mp3"
+2025-08-29T06:25:53 player: played "Youtube/Jennifer Lopez  ft. Ja Rule - I'm Real (Remix) _Official Video_.mp3"
+2025-08-29T06:34:44 player: played "Youtube/Codu' Penal -  Nico - Singur Pe Strada.mp3"
+2025-08-29T06:40:47 player: played "Youtube/Parazitii - Degeneratia Urmatoare (nr.84).mp3"
+2025-08-29T07:01:46 player: played "Youtube/Ombladon - Liceenii Rock'n'Roll.mp3"
+2025-08-29T07:08:32 player: played "Youtube/2Pac ft. Dr. Dre and Roger Troutman - California Love (Official Music Video).mp3"
+2025-08-29T07:12:42 player: played "Youtube/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3"
+2025-08-29T07:16:39 player: played "Youtube/Parazitii - Jos cenzura.mp3"
+2025-08-29T07:20:41 player: played "Youtube/B.U.G. Mafia - Tine-O Tot Asa.mp3"
+2025-08-29T07:24:22 player: played "Youtube/Dr. Dre -  Hittman -  Knoc-Turn'al - Bang Bang.mp3"
+2025-08-29T07:27:01 player: played "Youtube/Ombladon - Nu Mi-E Frică.mp3"
+2025-08-29T07:30:52 player: played "Youtube/Jeremih - Down On Me ft. 50 Cent.mp3"
+2025-08-29T07:31:52 player: played "Youtube/San Andreas Cover Remake - 200K Subs Special!.mp3"
+2025-08-29T07:32:01 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:01 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:01 player: problems opening audio device while playing "Manele/Luis Gabriel - -15 Grade.mp3"
+2025-08-29T07:32:09 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:09 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:11 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:11 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:16 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:16 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T07:32:23 player: played "Manele/Iuly Neamtu - Afrodisiac.mp3"
+2025-08-29T07:33:32 player: played "Manele/Iuly Neamtu - Afrodisiac.mp3"
+2025-08-29T07:33:58 player: played "Youtube/Cedry2k Partea întunecată a lumii (cu Pietonu).mp3"
+2025-08-29T07:35:03 player: played "Manele/Gya - Africa.mp3"
+2025-08-29T07:37:13 player: played "Manele/Gya - Africa.mp3"
+2025-08-29T07:39:46 player: played "Manele/Jador - O Iubita De-o Zi.mp3"
+2025-08-29T07:42:51 player: played "Manele/Tzanca Uraganu - Viata Exclusivista.mp3"
+2025-08-29T07:45:01 player: played "Manele/Luis Gabriel - Vagabond.mp3"
+2025-08-29T07:48:23 player: played "Manele/Shondy - Bogdan DLP - Motivul Principal.mp3"
+2025-08-29T07:52:06 player: played "Manele/Nicolae Guta - A innebunit planeta.mp3"
+2025-08-29T07:55:13 player: played "Manele/What's Up - Jador - Ce N-Aș Da.mp3"
+2025-08-29T07:58:12 player: played "Manele/Tzanca Uraganu - Mama dolarii.mp3"
+2025-08-29T08:00:50 player: played "Manele/Jador - Manele Mentolate - Fana.mp3"
+2025-08-29T08:03:18 player: played "Manele/Jador - Gheboasă - Manele Mentolate - Austria.mp3"
+2025-08-29T08:05:40 player: played "Manele/Luis Gabriel - Kalif - Creola.mp3"
+2025-08-29T08:07:56 player: played "Manele/Costel Biju - Manele Mentolate - Antalya.mp3"
+2025-08-29T08:10:26 player: played "Manele/Iuly Neamtu - Manele Mentolate - Test Drive.mp3"
+2025-08-29T08:12:23 player: played "Manele/Iuly Neamtu - Manele Mentolate - Fancy.mp3"
+2025-08-29T08:14:50 player: played "Manele/Bogdan DLP - Afacere.mp3"
+2025-08-29T08:17:52 player: played "Manele/Jador - Antonio Pican - Ploua cu banii.mp3"
+2025-08-29T08:20:22 player: played "Manele/Tzanca Uraganu - Sheik - Eee Aaa  Burj Khalifa.mp3"
+2025-08-29T08:22:55 player: played "Manele/Dani Mocanu - Blonda.mp3"
+2025-08-29T08:26:23 player: played "Manele/Costel Biju - Te duceam la Han,te duceam la Mia.mp3"
+2025-08-29T08:29:48 player: played "Manele/Miraj Tzunami - Am probleme la mansarda.mp3"
+2025-08-29T08:32:40 player: played "Manele/Bogdan DLP - Andrei Vitan - Nana Dinu - Hi Baby.mp3"
+2025-08-29T08:37:23 player: played "Manele/Alex Botea - Fetele din mahala.mp3"
+2025-08-29T08:41:17 player: played "Manele/Dani Mocanu - Stop Romania.mp3"
+2025-08-29T08:54:13 player: played "Manele/Dani Mocanu - Stop Romania.mp3"
+2025-08-29T08:56:49 player: played "Manele/Bogdan DLP - Fato.mp3"
+2025-08-29T08:59:22 player: played "Manele/Costel Biju - Manele Mentolate - Te ia.mp3"
+2025-08-29T09:01:33 player: played "Manele/Luis Gabriel - Vipera.mp3"
+2025-08-29T09:03:49 player: played "Manele/Nikolas - Manele Mentolate - Inima Mea.mp3"
+2025-08-29T09:07:35 player: played "Youtube/Dr. Dre - Xxplosive (feat Hittman, Kurupt, Nate Dogg & Six Two).mp3"
+2025-08-29T09:11:42 player: played "Youtube/Nas - The World Is Yours (Official HD Video).mp3"
+2025-08-29T12:03:28 player: played "Youtube/Grasu XXL -  Bitza - Fac Ce Vor.mp3"
+2025-08-29T12:06:41 player: played "Youtube/Grasu XXL Dans Murdar.mp3"
+2025-08-29T12:09:51 player: played "Youtube/Parazitii - Vreau sa va doara (nr.14).mp3"
+2025-08-29T12:13:01 player: played "Youtube/Grasu XXL -  AMI - Deja Vu.mp3"
+2025-08-29T12:16:16 player: played "Youtube/Ombladon -  Arssura - Gloante oarbe.mp3"
+2025-08-29T12:19:35 player: played "Youtube/T.I. - Bring Em Out (Official Video).mp3"
+2025-08-29T12:23:03 player: played "Youtube/Parazitii - Te sparg la buci.mp3"
+2025-08-29T12:27:19 player: played "Youtube/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3"
+2025-08-29T12:31:02 player: played "Youtube/Parazitii - Imi pare rau (nr.72).mp3"
+2025-08-29T12:34:50 player: played "Youtube/Ice Cube - Friday.mp3"
+2025-08-29T12:39:34 player: played "Youtube/La Familia - Foame De Bani.mp3"
+2025-08-29T12:43:10 player: played "Youtube/Ombladon - N-am plecat.mp3"
+2025-08-29T12:46:05 player: played "Youtube/Cheloo -  Guess Who - Sindromul Tourette.mp3"
+2025-08-29T12:49:16 player: played "Youtube/Ombladon -  Carbon - Metode clasice de sinucidere.mp3"
+2025-08-29T12:52:05 player: played "Youtube/Spike - Panica rau.mp3"
+2025-08-29T12:53:58 player: played "Youtube/Cheloo -  Freakadadisk - Dejectii obsesive.mp3"
+2025-08-29T12:59:04 player: played "Youtube/2Pac - All Eyez on Me.mp3"
+2025-08-29T13:01:42 player: played "Youtube/Omu Gnom - Reflectii inainte de lesin.mp3"
+2025-08-29T16:33:47 player: played "Youtube/Codu' Penal - Tramvaiul 4.mp3"
+2025-08-29T16:38:04 player: played "Youtube/Jin-Peel Off.mp3"
+2025-08-29T16:42:01 player: played "Youtube/B.U.G. Mafia - 5000 De Zile (Prod. Tata Vlad).mp3"
+2025-08-29T16:45:41 player: played "Youtube/R. Kelly - Thoia Thoing.mp3"
+2025-08-29T16:50:30 player: played "Youtube/Eminem - Without Me.mp3"
+2025-08-29T16:54:07 player: played "Youtube/B.U.G. Mafia -  Luchian - La Furat (Toata Viata Mea) [feat. Luchian].mp3"
+2025-08-29T16:57:32 player: played "Youtube/Cheloo - Operatiunea cur pansat.mp3"
+2025-08-29T17:01:21 player: played "Youtube/Ombladon -  Guess Who - Noapte buna -  Bucuresti.mp3"
+2025-08-29T17:03:38 player: played "Youtube/Eve -  Gwen Stefani - Let Me Blow Ya Mind.mp3"
+2025-08-29T17:03:43 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:03:43 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:03:43 player: problems opening audio device while playing "Manele/Luis Gabriel - -15 Grade.mp3"
+2025-08-29T17:03:46 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:03:46 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:03:48 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:03:48 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:04:03 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:04:03 exception: Failed to open "Core Audio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2025-08-29T17:04:15 player: played "Manele/Alberto Guta - Nicolae Guta - Ministerul Manelelor - Ola Chiquita.mp3"
+2025-08-29T17:04:41 player: played "Manele/Alberto Guta - Nicolae Guta - Ministerul Manelelor - Ola Chiquita.mp3"
+2025-08-29T17:07:55 player: played "Manele/Alex Botea - Costel Biju - Dema Mamo.mp3"
+2025-08-29T17:11:12 player: played "Manele/Luis Gabriel - Amnezie.mp3"
+2025-08-29T17:13:20 player: played "Manele/Babasha - Locația.mp3"
+2025-08-29T17:15:49 player: played "Youtube/La Familia -  Don Baxter -  Cabron - Zi de zi.mp3"
+2025-08-29T17:16:03 player: played "Youtube/Cheloo - Apel la sinceritate (Videoclip Oficial).mp3"
+2025-08-29T17:20:42 player: played "Youtube/Cedry2k -  Carbon -  Pacha Man - Decapitalism.mp3"
+2025-08-29T17:21:34 player: played "Youtube/Eminem -  Dr. Dre -  Snoop Dogg -  Xzibit -  Nate Dogg - Bitch Please II.mp3"
+2025-08-29T17:23:41 player: played "Youtube/Nas - N.Y. State of Mind (Official Audio).mp3"
+2025-08-29T17:28:31 player: played "Youtube/B.U.G. Mafia -  Mario V - 40 kmh.mp3"
+2025-08-29T17:33:34 player: played "Youtube/Kurupt -  Tray Dee -  Slip Capone - C-Walk.mp3"
+2025-08-29T17:35:57 player: played "Youtube/Fresh ｜ Yellowbase ｜ awesome hip hop song.mp3"
+2025-08-29T17:38:21 player: played "Youtube/Spike - Clar.mp3"
+2025-08-29T17:42:06 player: played "Youtube/B.U.G. Mafia - Nascut Si Crescut In Pantelimon (Prod. Tata Vlad).mp3"
+2025-08-29T17:45:53 player: played "Youtube/La Familia feat. Bibanu MixXL & Cedry2k - Consecinte ｜ Videoclip Oficial.mp3"
+2025-08-29T17:49:28 player: played "Youtube/Anonim - Parazitii - Extrema Zilei.mp3"
+2025-08-29T17:53:11 player: played "Youtube/Cheloo - Prezentul Perfect.mp3"
+2025-08-29T17:57:58 player: played "Youtube/13 Organisé - Je suis Marseille -Akhenaton_Shurik’n_ L’Algérino_Sch_Jul_Alonzo_Fahar_Le Rat Luciano_.mp3"
+2025-08-29T18:00:48 player: played "Youtube/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3"
+2025-08-29T18:04:30 player: played "Youtube/Anonim - Show.mp3"
+2025-08-29T18:07:50 player: played "Youtube/Cheloo - Exorcistu-n izmene (feat. Spike).mp3"
+2025-08-29T18:11:25 player: played "Youtube/Ombladon -  Guess Who - Noapte buna -  Bucuresti.mp3"
+2025-08-29T18:14:37 player: played "Youtube/Corina -  Dorian Popa - Nimeni altcineva.mp3"
+2025-08-29T22:06:40 player: played "Youtube/Spike - Tu.mp3"
+2025-08-29T22:15:42 player: played "Youtube/Outkast - Ms. Jackson (Official HD Video).mp3"
+2025-08-29T22:19:18 player: played "Youtube/Smiley - Am bani de dat (Official Video).mp3"
+2025-08-29T22:23:55 player: played "Youtube/Shit Hits The Fan.mp3"
+2025-08-30T15:18:27 player: played "Youtube/Spike - Tu.mp3"
+2025-08-30T15:22:28 player: played "Youtube/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3"
+2025-08-30T15:25:45 player: played "Youtube/Warren G - This D.J. (Official Video).mp3"
+2025-08-30T15:29:23 player: played "Youtube/Ice Cube - You Know How We Do It.mp3"
+2025-08-30T15:33:53 player: played "Youtube/La Familia - Foame De Bani.mp3"
+2025-08-30T15:37:30 player: played "Youtube/Omu Gnom - Romania nevinovata (cu creTzu) ⧸⧸prod. de Omu Gnom.mp3"
+2025-08-30T15:41:25 player: played "Youtube/B.U.G. Mafia -  Luchian - Celebrii Anonimi.mp3"
+2025-08-30T15:48:22 player: played "Youtube/B.U.G. Mafia -  Luchian -  Nico - A fost odata-n cartiere.mp3"
+2025-08-30T15:50:15 player: played "Youtube/BOMBA FANTASTIC - (Remix).mp3"
+2025-08-30T15:55:05 player: played "Youtube/G-Unit - Poppin' Them Thangs (Explicit Version).mp3"
+2025-08-30T15:56:26 player: played "Youtube/B.U.G. Mafia - Outro.mp3"
+2025-08-30T15:59:09 player: played "Youtube/Ombladon -  raku - Egali din nastere.mp3"
+2025-08-30T19:12:08 player: played "Youtube/B.U.G. Mafia -  Plesa - Interludiu.mp3"
+2025-08-30T19:14:48 player: played "Youtube/Bitza & Grasu XXL - Fac ce vor.mp3"
+2025-08-30T19:23:01 player: played "Youtube/Jennifer Lopez -  Jadakiss -  Styles P - Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix.mp3"
+2025-08-30T19:29:51 player: played "Youtube/Grasu XXL feat. Mario - Elegant.mp3"
+2025-08-30T19:33:39 player: played "Youtube/Don Baxter - Show-Bizz.mp3"
+2025-08-30T19:39:45 player: played "Youtube/Lil Wayne - A Milli.mp3"
+2025-08-30T19:43:06 player: played "Youtube/Macanache - Eu Dau Graffiti.mp3"
+2025-08-30T19:47:45 player: played "Youtube/Late Night Hype.mp3"
+2025-08-30T19:51:33 player: played "Youtube/B.U.G. Mafia - Pantelimonu' Petrece (feat. Adriana Vlad) (Prod. Tata Vlad) (Videoclip).mp3"
+2025-08-30T19:55:20 player: played "Youtube/B.U.G. Mafia - Tine-O Tot Asa.mp3"
+2025-08-30T19:58:34 player: played "Youtube/Parazitii - Dusmaniti-ma toti (nr.15).mp3"
+2025-08-30T20:02:17 player: played "Youtube/B.U.G. Mafia - 5000 De Zile (Prod. Tata Vlad).mp3"
+2025-08-30T20:05:38 player: played "Youtube/Parazitii - Glume de cacat (nr.68).mp3"
+2025-08-30T20:08:19 player: played "Youtube/Cheloo -  Guess Who - Sindromul Tourette.mp3"
+2025-08-30T20:12:11 player: played "Youtube/Parazitii feat  Spike - Rau sau bun (nr.40).mp3"
+2025-08-30T20:15:40 player: played "Youtube/Parazitii - Drogurile schimba tot (nr.31).mp3"
+2025-08-30T20:18:55 player: played "Youtube/Cheloo -  Bitza - Vicii.mp3"
+2025-08-30T20:21:57 player: played "Youtube/Spike - Visam.mp3"
+2025-08-30T20:22:57 player: played "Youtube/Anonim - Mortal.mp3"
+2025-08-30T20:27:43 player: played "Youtube/Dr. Dre -  Eminem - Forgot About Dre.mp3"
+2025-08-30T20:32:23 player: played "Youtube/Nimeni Altu' - Nimeni Altu'  [videoclip].mp3"
+2025-08-30T20:35:42 player: played "Youtube/guess who feat spike & grasu xxl - tu.mp3"
+2025-08-30T20:38:33 player: played "Youtube/Codu' Penal -  Nico - Singur Pe Strada.mp3"
+2025-08-30T20:41:36 player: played "Youtube/Nimeni Altu’ -  Axes -  Feliz - Trecând peste toate.mp3"
+2025-08-30T20:44:37 player: played "Youtube/Cheloo - Statul E Tarfa Cu Care Esti Obligat Sa Te-Nsori.mp3"
+2025-08-30T20:48:52 player: played "Youtube/Fabolous - Can't Let You Go (feat. Mike Shorey & Lil' Mo) [Official Video].mp3"
+2025-08-30T20:51:50 player: played "Youtube/Ombladon -  Bitza - Panarame.mp3"
+2025-08-30T20:55:24 player: played "Youtube/Cheloo - In Corpore Sano.mp3"
+2025-08-30T20:59:01 player: played "Youtube/G-Unit - Stunt 101.mp3"
+2025-08-30T21:01:47 player: played "Youtube/Parazitii - Beat box din dragoste in alte feluri (nr.60).mp3"
+2025-08-30T21:05:22 player: played "Youtube/Cedry2k -  Carbon -  Pacha Man - Decapitalism.mp3"
+2025-08-30T21:09:03 player: played "Youtube/Parazitii - Violent - Original.mp3"
+2025-08-30T21:12:52 player: played "Youtube/Dr. Dre -  Eminem -  Xzibit - What's The Difference.mp3"
+2025-08-30T21:15:48 player: played "Youtube/Ombladon - Cel mai prost din curtea scolii.mp3"
+2025-08-30T21:19:43 player: played "Youtube/B.U.G. Mafia  - Estu' Salbatic (Prod. Tata Vlad).mp3"
+2025-08-30T21:23:19 player: played "Youtube/Parazitii - Cum sa jignesti o femeie (nr.39).mp3"
+2025-08-30T21:27:39 player: played "Youtube/B.U.G. Mafia -  Roxana - Mahoarca.mp3"
+2025-08-30T21:32:02 player: played "Youtube/B.U.G. Mafia -  Nico - Cartieru' Pantelimon.mp3"
+2025-08-30T21:35:30 player: played "Youtube/Parazitii - Goana dupa iluzii.mp3"
+2025-08-30T21:38:40 player: played "Youtube/Fugees - Ready or Not.mp3"
+2025-08-30T21:41:33 player: played "Youtube/Cheloo - Fericit (feat Guess Who).mp3"
+2025-08-30T21:44:23 player: played "Youtube/Spike - Panica rau.mp3"
+2025-08-30T21:48:18 player: played "Youtube/Grasu XXL - La adapost ( ft Villy ).mp3"
+2025-08-30T21:53:06 player: played "Youtube/Eminem -  Dr. Dre -  Snoop Dogg -  Xzibit -  Nate Dogg - Bitch Please II.mp3"
+2025-08-30T21:55:36 player: played "Youtube/Nimeni Altu’ - Lăutarul din beci.mp3"
+2025-08-30T21:58:48 player: played "Youtube/Full Option.mp3"
+2025-08-30T22:03:01 player: played "Youtube/Gettin' It.mp3"
+2025-08-30T22:06:12 player: played "Youtube/Parazitii - Fara tine feat Bitza (nr.67).mp3"
+2025-08-30T22:09:38 player: played "Youtube/Cabron -  Don Baxter - Femei.mp3"
+2025-08-30T22:12:25 player: played "Youtube/Andia, Guess Who - Pietre Pretioase.mp3"
+2025-08-30T22:15:21 player: played "Youtube/Ombladon - Ultimul tren.mp3"
+2025-08-30T22:18:15 player: played "Youtube/Ombladon - Trei agenti (cu Cheloo si FDD).mp3"
+2025-08-30T22:21:16 player: played "Youtube/Ombladon - Gloante oarbe (cu Arssura).mp3"
+2025-08-30T22:23:50 player: played "Youtube/Spike -  Nicalai - Mai departe.mp3"
+2025-08-30T22:27:44 player: played "Youtube/50 Cent - Candy Shop (Official Music Video) ft. Olivia.mp3"
+2025-08-30T22:31:59 player: played "Youtube/Ludacris - Act A Fool.mp3"
+2025-08-30T22:35:14 player: played "Youtube/Deliric - Sah mat [feat. DOC, Vlad Dobrescu].mp3"
+2025-08-30T22:38:27 player: played "Youtube/Parazitii - Antimilitie.mp3"
+2025-08-30T22:42:00 player: played "Youtube/Blu Cantrell -  Sean Paul - Breathe (feat. Sean Paul) - Rap Version.mp3"
+2025-08-30T22:46:07 player: played "Youtube/The Notorious B.I.G. - Big Poppa (Official Music Video) [HD].mp3"
+2025-08-30T22:50:19 player: played "Youtube/Fat Joe -  Ja Rule -  Ashanti - What's Luv (feat. Ja-Rule & Ashanti).mp3"
+2025-08-30T22:54:06 player: played "Youtube/La Familia - Vorbe (cu Uzzi) ｜ Videoclip Oficial.mp3"
+2025-08-30T22:57:48 player: played "Youtube/Guess Who - Onoare.mp3"
+2025-08-30T23:01:51 player: played "Youtube/50 Cent - Just A Lil Bit.mp3"
+2025-08-30T23:05:27 player: played "Youtube/Ice Cube - Ghetto Bird.mp3"
+2025-08-30T23:10:57 player: played "Youtube/B.U.G. Mafia - Poveste Fara Sfarsit (feat. Jasmine) (Prod. Tata Vlad).mp3"
+2025-08-31T11:19:36 player: played "Youtube/Spike - Realitate.mp3"
+2025-08-31T11:42:43 player: played "Youtube/Spike - Realitate.mp3"
+2025-08-31T15:08:04 player: played "Youtube/Sam Sneed - U Better Recognize Ft. Dr Dre (Music Video).mp3"
+2025-08-31T15:11:27 player: played "Youtube/B.U.G. Mafia -  Luchian - La Furat (Toata Viata Mea) [feat. Luchian].mp3"
+2025-08-31T15:14:56 player: played "Youtube/Grasu XXL - Turbofin.mp3"
+2025-08-31T15:17:53 player: played "Youtube/The Notorious B.I.G. -  Lil' Kim -  Diddy - Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster.mp3"
+2025-08-31T15:21:32 player: played "Youtube/The Message.mp3"
+2025-08-31T15:24:00 player: played "Youtube/Nimeni Altu’ - Poteca.mp3"
+2025-08-31T15:32:41 player: played "Youtube/Ludacris - How Low.mp3"
+2025-08-31T15:36:50 player: played "Youtube/Parazitii  feat Anonim & Spike - Maraton 20CM (nr.43).mp3"
+2025-08-31T15:40:32 player: played "Youtube/Codu' Penal - Gangsta Rap (feat. Puya).mp3"
+2025-08-31T15:44:07 player: played "Youtube/Eve -  Gwen Stefani - Let Me Blow Ya Mind.mp3"
+2025-08-31T15:47:45 player: played "Youtube/Omu Gnom - Romania nevinovata (cu creTzu) ⧸⧸prod. de Omu Gnom.mp3"
+2025-08-31T15:51:23 player: played "Youtube/G-Unit - Smile.mp3"
+2025-08-31T15:54:48 player: played "Youtube/Cabron -  Don Baxter - Femei.mp3"
+2025-08-31T15:58:30 player: played "Youtube/Guess Who - Onoare.mp3"
+2025-08-31T16:03:02 player: played "Youtube/La Familia - Tot in Familie ｜ Videoclip Oficial.mp3"
+2025-08-31T16:06:48 player: played "Youtube/Parazitii - Asa Cum Vreau.mp3"
+2025-08-31T16:10:36 player: played "Youtube/B.U.G. Mafia - Pantelimonu' Petrece (feat. Adriana Vlad) (Prod. Tata Vlad) (Videoclip).mp3"
+2025-08-31T16:13:53 player: played "Youtube/Parazitii - Arma secreta.mp3"
+2025-08-31T16:18:05 player: played "Youtube/Fat Joe -  Ja Rule -  Ashanti - What's Luv (feat. Ja-Rule & Ashanti).mp3"
+2025-08-31T16:21:19 player: played "Youtube/Parazitii - Acordeonu la maxim (nr.66).mp3"
+2025-08-31T16:29:44 player: played "Youtube/Confidential (feat. Bitza).mp3"
+2025-08-31T16:34:36 player: played "Youtube/2Pac - All Eyez on Me.mp3"
+2025-08-31T16:39:23 player: played "Youtube/13 Organisé - Je suis Marseille -Akhenaton_Shurik’n_ L’Algérino_Sch_Jul_Alonzo_Fahar_Le Rat Luciano_.mp3"
+2025-08-31T16:47:44 player: played "Youtube/Dr. Dre - Still D.R.E. ft. Snoop Dogg.mp3"
+2025-08-31T16:52:55 player: played "Youtube/Puff Daddy - Can't Nobody Hold Me Down (feat. Mase) (Official Music Video) [HD].mp3"
+2025-08-31T16:59:56 player: played "Youtube/R. Kelly - Thoia Thoing.mp3"
+2025-08-31T17:04:19 player: played "Youtube/2Pac - Troublesome '96 (Lyrics).mp3"
+2025-08-31T17:07:00 player: played "Youtube/Cheloo -  Guess Who - Sindromul Tourette.mp3"
+2025-08-31T17:10:41 player: played "Youtube/Legendele.mp3"
+2025-08-31T17:14:01 player: played "Youtube/Dr. Dre -  Hittman -  Six-Two -  Nate Dogg -  Kurupt - Xxplosive.mp3"
+2025-08-31T17:17:28 player: played "Youtube/DMX - Ruff Ryders' Anthem.mp3"
+2025-08-31T17:20:03 player: played "Youtube/Ombladon - Muie Garda (Official Video).mp3"
+2025-08-31T17:23:50 player: played "Youtube/Cedry2k - Sacrificii.mp3"
+2025-08-31T17:28:33 player: played "Youtube/Eminem - Cleanin' Out My Closet.mp3"
+2025-08-31T17:31:06 player: played "Youtube/Spike -  Nicalai - Mai departe.mp3"
+2025-08-31T17:35:41 player: played "Youtube/Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) (Remix).mp3"
+2025-08-31T17:40:47 player: played "Youtube/Omu Gnom - Limpede (Prod. de Omu Gnom) (videoclip oficial).mp3"
+2025-08-31T17:43:44 player: played "Youtube/Ombladon feat. Bitza - Jumatatea goala.mp3"
+2025-08-31T17:56:19 player: played "Youtube/Anonim - Parazitii - Extrema Zilei.mp3"
+2025-08-31T19:04:58 player: played "Youtube/2Pac – Wanted Dead Or Alive (ft. Snoop Dogg & Charlie Wilson) (Explicit) [HD].mp3"
+2025-08-31T19:07:46 player: played "Youtube/Spike - Tango.mp3"
+2025-08-31T19:09:40 player: played "Youtube/Bitch Please II.mp3"
+2025-08-31T19:10:54 player: played "Youtube/Fresh ｜ Yellowbase ｜ awesome hip hop song.mp3"
+2025-08-31T19:22:16 player: played "Manele/Dani Mocanu - Condamnare.mp3"
+2025-08-31T19:26:35 player: played "Manele/Dani Mocanu - Rusia.mp3"
+2025-08-31T19:28:56 player: played "Manele/Denis Ramniceanu - Babasha - Ministerul Manelelor - Molotov.mp3"
+2025-08-31T19:31:48 player: played "Manele/Luis Gabriel - Haziran - Vin Sa Te Fur.mp3"
+2025-08-31T19:36:21 player: played "Manele/Iuly Neamtu - Manele Mentolate - Figaro.mp3"
+2025-08-31T19:39:10 player: played "Manele/Luis Gabriel - EX.mp3"
+2025-08-31T19:42:07 player: played "Manele/Antonio Marcu - Luis Gabriel - Hey Siri.mp3"
+2025-08-31T19:44:14 player: played "Manele/Nikolas - Manele Mentolate - Diamante Roz.mp3"
+2025-08-31T19:46:22 player: played "Manele/Luis Gabriel - Kalif - Creola.mp3"
+2025-08-31T19:48:54 player: played "Manele/Gya - E Adevărat.mp3"
+2025-08-31T19:51:45 player: played "Manele/Lele - O Noapte in Medellin.mp3"
+2025-08-31T19:55:06 player: played "Manele/Costel Biju - Alex Botea - Iar mi-am suparat iubita.mp3"
+2025-08-31T19:57:55 player: played "Manele/Lele - Bine Ai Venit in Balcani.mp3"
+2025-08-31T20:00:30 player: played "Manele/Jador - Serena - Andrei Banuta - Mon Ami (#RaTaTa) - Remix.mp3"
+2025-08-31T20:02:16 player: played "Manele/Costel Biju - Manele Mentolate - Antalya.mp3"
+2025-08-31T20:04:43 player: played "Manele/Bogdan DLP - Cristina Pucean - Macarena.mp3"
+2025-08-31T20:08:01 player: played "Manele/Tzanca Uraganu - Rup Topurile.mp3"
+2025-08-31T20:11:54 player: played "Manele/Tzanca Uraganu - Tomberonul.mp3"
+2025-08-31T20:14:40 player: played "Manele/Dani Mocanu - Vino să te f.mp3"
+2025-08-31T20:21:11 player: played "Manele/Tzanca Uraganu - MIRAJ TZUNAMI - Tancuri blindate.mp3"
+2025-08-31T20:23:59 player: played "Manele/Babasha - Marae.mp3"
+2025-08-31T20:25:36 player: played "Manele/Iuly Neamtu - Manele Mentolate - Ceașcă de cafea.mp3"
+2025-08-31T20:28:08 player: played "Manele/Jador - Manele Mentolate - Skinny.mp3"
+2025-08-31T20:30:21 player: played "Manele/Leo de la Kuweit - Camelia Dumitrache - MAYO - Te-as suna.mp3"
+2025-08-31T20:32:55 player: played "Manele/Costel Biju - Chupa-Chups.mp3"
+2025-08-31T20:35:52 player: played "Manele/Geany Morandi - Ne merge bine.mp3"
+2025-08-31T20:38:39 player: played "Manele/Daiana - Bogdan DLP - Insula Iubirii.mp3"
+2025-08-31T20:41:49 player: played "Manele/Tzanca Uraganu - S-Au Unit Legendele.mp3"
+2025-09-01T19:01:40 player: played "Manele/Babasha - Cât vrei tu.mp3"
+2025-09-01T19:05:47 player: played "Manele/YNY Sebi - Bogdan DLP - Lamborghini.mp3"
+2025-09-01T19:08:23 player: played "Manele/Bogdan DLP - Mgk666 - Libera.mp3"
+2025-09-01T19:11:22 player: played "Manele/Tzanca Uraganu - Bona.mp3"
+2025-09-01T19:15:51 player: played "Manele/Bogdan DLP - Hitana.mp3"
+2025-09-01T19:29:48 player: played "Manele/Aerozen - sexyZ.mp3"
+2025-09-01T19:33:48 player: played "Manele/Tzanca Uraganu - Costel Biju - E Buna Rau Pe Basi.mp3"
+2025-09-01T19:38:41 player: played "Manele/Tzanca Uraganu - Iarta-ma Mamo - Live.mp3"
+2025-09-01T19:40:26 player: played "Manele/YNY Sebi - Bogdan DLP - Regele tarabanelor - From “Romina VTM” The Movie.mp3"
+2025-09-01T19:43:01 player: played "Manele/Tzanca Uraganu - Andrei G - Ministerul Manelelor - HOT - From Miami Bici 2 The Movie.mp3"
+2025-09-01T19:45:43 player: played "Manele/Tzanca Uraganu - Te-am vazut fara inel.mp3"
+2025-09-01T19:48:03 player: played "Manele/Tzanca Uraganu - Filipineza.mp3"
+2025-09-01T19:50:55 player: played "Manele/Andrei G - Ministerul Manelelor - Ping Pong.mp3"
+2025-09-01T19:53:05 player: played "Manele/Iuly Neamtu - Manele Mentolate - La înălțime.mp3"
+2025-09-01T19:55:44 player: played "Manele/Iuly Neamtu - Manele Mentolate - Kawasaki.mp3"
+2025-09-01T19:58:22 player: played "Manele/Tzanca Uraganu - Alo baza baza.mp3"
+2025-09-02T18:40:23 player: played "Manele/Iuly Neamtu - Manele Mentolate - Formula 1.mp3"

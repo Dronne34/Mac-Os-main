@@ -3,4 +3,4 @@
 #chmod +x ~/.local/shell/*
 # chmod +x ~/.local/bin/*
 eval "$(/opt/homebrew/bin/brew shellenv)"
-eval "$(zoxide init zsh)"
+# eval "$(zoxide init zsh)"

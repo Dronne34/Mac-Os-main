@@ -1,0 +1,2 @@
+config_file: config parameter "id3v1_encoding" on line 21 is deprecated
+2025-08-29T17:04:42 exception: Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
