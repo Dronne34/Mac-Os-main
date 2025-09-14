@@ -99,6 +99,7 @@ f7 = 'exec-and-forget mpc prev'
 f8 = 'exec-and-forget mpc toggle'
 f9 = 'exec-and-forget mpc next'
 
+# bindings for launching white hyperkey apps
 # Applications
 # ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/sel-apps'
 # alt-enter  = 'exec-and-forget /bin/bash -c kitty --single-instance'
