@@ -4,7 +4,7 @@
 WALLPAPER_DIR="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Wallpapers" # Use $HOME to ensure the path is correct for any user
 
 # Find all image files in the directory and select one randomly
-RANDOM_WALLPAPER=$(find "$WALLPAPER_DIR" -type f \( -iname "*.jpg" -o -iname "*.png" \) | shuf -n 1)
+RANDOM_WALLPAPER=$(find "$WALLPAPER_DIR" -type f \( -iname "*.jpg" -o -iname "*.png" \) | sort -R | head -n 1)
 
 # Check if a wallpaper was found
 if [ -z "$RANDOM_WALLPAPER" ]; then
