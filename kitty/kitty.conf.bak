@@ -30,9 +30,11 @@ scrollback_lines 5000
 
 
 # BEGIN_KITTY_THEME
-# 1984 Dark
-include current-theme.conf
-# END_KITTY_THEME
+# One Dark
+# include current-theme.conf
+include Nord.conf
+#
+#END_KITTY_THEME
 
 # BEGIN_KITTY_FONTS
 font_family      family="JetBrainsMono Nerd Font Mono"

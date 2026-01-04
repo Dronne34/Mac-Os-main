@@ -1,324 +1,60 @@
 sw_volume: 80
 audio_device_state:1:Core Audio
-state: pause
-current: 151
-time: 117.196
+state: play
+current: 12
+time: 124.935
 random: 1
 repeat: 0
 single: 0
 consume: 0
-crossfade: 15
+crossfade: 5
 mixrampdb: 0
 mixrampdelay: -1
-lastloadedplaylist: Oriental
+lastloadedplaylist: Favorite
 playlist_begin
-0:Manele/AdelinMM, RAVA - AZALEEA.mp3
-1:Manele/AdelinMM, RAVA - SELFWASH.mp3
-2:Manele/Adrian Norocel - Aoleu ce da din ea.mp3
-3:Manele/Adrian Norocel - E Wow.mp3
-4:Manele/Adrian Norocel - NUMAI FEMEI.mp3
-5:Manele/Aerozen - FARMACISTA.mp3
-6:Manele/Aerozen - sexyZ.mp3
-7:Manele/Alberto Guta - Nicolae Guta - Ministerul Manelelor - Ola Chiquita.mp3
-8:Manele/Alessandra - Babasha - Am un secret.mp3
-9:Manele/Alex Botea - Fetele din mahala.mp3
-10:Manele/Alex Botea - Mana stanga sus.mp3
-11:Manele/Alex Botea - Romeo si Julieta.mp3
-12:Manele/Alex Botea - Sauditii.mp3
-13:Manele/Alex Botea - Costel Biju - Dema Mamo.mp3
-14:Manele/Alex Velea - Bogdan DLP - BlvckMatias - Fitzoaso.mp3
-15:Manele/andrei - DZWS - BEN - SUNETE 2.mp3
-16:Manele/Andrei G - Costel Biju - Ministerul Manelelor - Coco.mp3
-17:Manele/Andrei G - Lele - Ministerul Manelelor - Dale.mp3
-18:Manele/Andrei G - Ministerul Manelelor - Ping Pong.mp3
-19:Manele/Andrei G - Ministerul Manelelor - Vreau doar să te.mp3
-20:Manele/Andrei G - Nikolas - Ministerul Manelelor - Rupe-te în dansuri.mp3
-21:Manele/Antonio Marcu - Luis Gabriel - Hey Siri.mp3
-22:Manele/Aurora Baran - Mainile Tale Calde.mp3
-23:Manele/Babasha - Tratamente.mp3
-24:Manele/Babasha - Locația.mp3
-25:Manele/Babasha - Marae.mp3
-26:Manele/Babasha - Cât vrei tu.mp3
-27:Manele/Babasha - Brasileiro.mp3
-28:Manele/Babasha - Antonia - De ce te uiți așa.mp3
-29:Manele/Babasha - Hermenotis - Ministerul Manelelor - Cheeky.mp3
-30:Manele/Babasha - Ministerul Manelelor - Alo - mama.mp3
-31:Manele/Babasha - Ministerul Manelelor - Amo - Amo.mp3
-32:Manele/Babasha - Ministerul Manelelor - Aoleu.mp3
-33:Manele/Babasha - Ministerul Manelelor - Nebunia lui Babasha.mp3
-34:Manele/Babasha - Ministerul Manelelor - Păi naa.mp3
-35:Manele/Babasha - Ministerul Manelelor - Yali - Yali.mp3
-36:Manele/Babasha - Ministerul Manelelor - Zi-mi cine.mp3
-37:Manele/BLACKPINK - JUMP.mp3
-38:Manele/Bogdan De La Ploiesti - Costel Biju - Fara Mine N-Ai Semnal.mp3
-39:Manele/Bogdan DLP - Afacere.mp3
-40:Manele/Bogdan DLP - Bax Banii.mp3
-41:Manele/Bogdan DLP - Casablanca.mp3
-42:Manele/Bogdan DLP - Ce Melodie Pe Fundal.mp3
-43:Manele/Bogdan DLP - Cine N-a Gresit Vreodata.mp3
-44:Manele/Bogdan DLP - Dimineata Cand Sunt Beat.mp3
-45:Manele/Bogdan DLP - Fato.mp3
-46:Manele/Bogdan DLP - Habibi.mp3
-47:Manele/Bogdan DLP - Hitana.mp3
-48:Manele/Bogdan DLP - Ochii Tai.mp3
-49:Manele/Bogdan DLP - Revelionu'.mp3
-50:Manele/Bogdan DLP - Sarutul Tau.mp3
-51:Manele/Bogdan DLP - Seen.mp3
-52:Manele/Bogdan DLP - Sufletul de Vagabond - Cover Andrei Banuta.mp3
-53:Manele/Bogdan DLP - Toata Romania.mp3
-54:Manele/Bogdan DLP - Tu Tu Tu.mp3
-55:Manele/Polly - Bogdan Dlp - Cum Ma Tu.mp3
-56:Manele/Bogdan DLP - Adrian Minune - Galileo Galilei.mp3
-57:Manele/Bogdan DLP - Alex Velea - Ebal - From “Romina VTM” The Movie.mp3
-58:Manele/Bogdan DLP - Andrei Vitan - Nana Dinu - Hi Baby.mp3
-59:Manele/Bogdan DLP - Anuryh - Florin Salam - Pe La Spate.mp3
-60:Manele/Bogdan DLP - Beto - Nebuna - Da' Buna!.mp3
-61:Manele/Bogdan DLP - BOB - Ma Suni Noaptea.mp3
-62:Manele/Bogdan DLP - Claudia Puican - Inima sau Banii.mp3
-63:Manele/Bogdan DLP - Cristina Pucean - Macarena.mp3
-64:Manele/Bogdan DLP - Elys - Pastila de love.mp3
-65:Manele/Bogdan DLP - Florin Cercel - Caraibe.mp3
-66:Manele/Bogdan DLP - Florin Salam - Te Iubesc De Nu Te Vezi.mp3
-67:Manele/Bogdan DLP - Ian - Roma.mp3
-68:Manele/Bogdan DLP - Jador - Buze.mp3
-69:Manele/Bogdan DLP - Mgk666 - Libera.mp3
-70:Manele/Bogdan DLP - Nadir - Tzanca Uraganu - Paranoia.mp3
-71:Manele/Bogdan DLP - Sheik - Centura Roșie.mp3
-72:Manele/Bogdan DLP - Theo Rose - Vina Mea.mp3
-73:Manele/Bogdan DLP - Tzanca Uraganu - Costel Biju - RACHETA.mp3
-74:Manele/Bogdan DLP - Willy DLO - Da-i Drumul La Balans.mp3
-75:Manele/Bogdan DLP - YNY Sebi - COLA.mp3
-76:Manele/Bogdan DLP - Zanni - Obsesia.mp3
-77:Manele/Cocos de la Calarasi - Manele Mentolate - Dubai.mp3
-78:Manele/Cocos de la Calarasi - Vali Vijelie - Iuly Neamtu - Manele Mentolate - Maldive.mp3
-79:Manele/Costel Biju - Amantul Tau Fidel.mp3
-80:Manele/Costel Biju - Bum am aparut.mp3
-81:Manele/Costel Biju - Chupa-Chups.mp3
-82:Manele/Costel Biju - Gipsy Style.mp3
-83:Manele/Costel Biju - Ma faci sa poftesc la tine.mp3
-84:Manele/Costel Biju - Printesa Din Dubai.mp3
-85:Manele/Costel Biju - Talento Bari.mp3
-86:Manele/Costel Biju - Te duceam la Han,te duceam la Mia.mp3
-87:Manele/Costel Biju - Ups - ce eroare.mp3
-88:Manele/Costel Biju - Va Fac Mototol.mp3
-89:Manele/Costel Biju - Alex Botea - Iar mi-am suparat iubita.mp3
-90:Manele/Costel Biju - Iuly Neamtu - Manele Mentolate - LUPII (Au Au Au).mp3
-91:Manele/Costel Biju - Kristiyana - Cu mine te stie lumea.mp3
-92:Manele/Costel Biju - Manele Mentolate - Antalya.mp3
-93:Manele/Costel Biju - Manele Mentolate - Te ia.mp3
-94:Manele/Costel Biju - Nikolas Sax - Cristina Pucean - Favorita.mp3
-95:Manele/Costel Biju - Omar Arnaout - Am Un Foc La Inimioara.mp3
-96:Manele/Costel Biju - Tzanca Uraganu - Johnny Nebunu.mp3
-97:Manele/Cristi Mega - Hazul si figurile.mp3
-98:Manele/Cristi Mega - Janes Romanes.mp3
-99:Manele/Daiana - Bogdan DLP - Insula Iubirii.mp3
-100:Manele/Dani Mocanu - Ban pe ban.mp3
-101:Manele/Dani Mocanu - Blonda.mp3
-102:Manele/Dani Mocanu - China.mp3
-103:Manele/Dani Mocanu - Condamnare.mp3
-104:Manele/Dani Mocanu - El chapo.mp3
-105:Manele/Dani Mocanu - Hai sa ne iubim ca nemtii.mp3
-106:Manele/Dani Mocanu - Regele Junglei.mp3
-107:Manele/Dani Mocanu - Regina din afaceri ilegale.mp3
-108:Manele/Dani Mocanu - Rusia.mp3
-109:Manele/Dani Mocanu - Stop Romania.mp3
-110:Manele/Dani Mocanu - Vino să te f.mp3
-111:Manele/Dani Mocanu - Costi - Cireşica.mp3
-112:Manele/Dani Mocanu - JAY MALY - Costi - Bella.mp3
-113:Manele/Dani Mocanu - Shaggy - Costi - Trbaka.mp3
-114:Manele/Denis Nuca - Letty - Doar La Ea - Ba La Ea.mp3
-115:Manele/Denis Ramniceanu - English Tallava - From BUZZ HOUSE- The Movie 2.mp3
-116:Manele/Denis Ramniceanu - Babasha - Ministerul Manelelor - Molotov.mp3
-117:Manele/Denis Ramniceanu - Ministerul Manelelor - Bipolară.mp3
-118:Manele/Denis Ramniceanu - Ministerul Manelelor - Creola.mp3
-119:Manele/Denis Ramniceanu - Ministerul Manelelor - Merhaba (Stil Turcesc).mp3
-120:Manele/Denis Ramniceanu - Real Skitt - Da-le fum.mp3
-121:Manele/Dj Magic Romania - Tzanca Uraganu - Baga Tic Tac.mp3
-122:Manele/Dzws - Vanilla - Dj Nattan - Prietena Ta.mp3
-123:Manele/Emilian - Theo Rose - De 3 zile nu am somn.mp3
-124:Manele/Eva Timush - Oscar - Fantasy.mp3
-125:Manele/Florin Cercel - Iosif Dragoi - Boom am talent din ala bun.mp3
-126:Manele/Florin Salam - Costel Biju - Buna buna rau de tot.mp3
-127:Manele/Florin Salam - Mr Juve - Foc - foc - foc.mp3
-128:Manele/Florin Salam - Nek - Fiti Pe Faza.mp3
-129:Manele/Florin Salam - Tzanca Uraganu - Regii NFT.mp3
-130:Manele/Gami - Bogdan DLP - Iahturi Limuzine.mp3
-131:Manele/Geany Morandi - Ne merge bine.mp3
-132:Manele/Geany Morandi - Ti-am luat cercei ti-am luat inele.mp3
-133:Manele/Gya - Africa.mp3
-134:Manele/Gya - E Adevărat.mp3
-135:Manele/Gya - Babasha - Baklava.mp3
-136:Manele/Haidin - Alea de la București.mp3
-137:Manele/Haralambie Gabriel - Cocos de la Calarasi - Manele Mentolate - Carolina Herrera.mp3
-138:Manele/Huntrx - Ejae - Audrey Nuna - Rei Ami - Kpop Demon Hunters Cast - Golden.mp3
-139:Manele/Iuly Neamtu - Afrodisiac.mp3
-140:Manele/Iuly Neamtu - Are Ea Ceva.mp3
-141:Manele/Iuly Neamtu - Very - Very Primaverii.mp3
-142:Manele/Iuly Neamtu - Costel Biju - Manele Mentolate - Noapte bună.mp3
-143:Manele/Iuly Neamtu - Manele Mentolate - Amore.mp3
-144:Manele/Iuly Neamtu - Manele Mentolate - Brazilianca.mp3
-145:Manele/Iuly Neamtu - Manele Mentolate - Ceașcă de cafea.mp3
-146:Manele/Iuly Neamtu - Manele Mentolate - Corporatista.mp3
-147:Manele/Iuly Neamtu - Manele Mentolate - Cum O Dai Tu.mp3
-148:Manele/Iuly Neamtu - Manele Mentolate - Fancy.mp3
-149:Manele/Iuly Neamtu - Manele Mentolate - Ferrari.mp3
-150:Manele/Iuly Neamtu - Manele Mentolate - Figaro.mp3
-151:Manele/Iuly Neamtu - Manele Mentolate - Formula 1.mp3
-152:Manele/Iuly Neamtu - Manele Mentolate - Kawasaki.mp3
-153:Manele/Iuly Neamtu - Manele Mentolate - La înălțime.mp3
-154:Manele/Iuly Neamtu - Manele Mentolate - Lacrimi de miliardar.mp3
-155:Manele/Iuly Neamtu - Manele Mentolate - Lalele mentolate - From 'Romina VTM' The Movie.mp3
-156:Manele/Iuly Neamtu - Manele Mentolate - Mercedes.mp3
-157:Manele/Iuly Neamtu - Manele Mentolate - Mie de ea.mp3
-158:Manele/Iuly Neamtu - Manele Mentolate - Nasa.mp3
-159:Manele/Iuly Neamtu - Manele Mentolate - Pe un pat.mp3
-160:Manele/Iuly Neamtu - Manele Mentolate - Serpi.mp3
-161:Manele/Iuly Neamtu - Manele Mentolate - Sugar Daddy.mp3
-162:Manele/Iuly Neamtu - Manele Mentolate - Test Drive.mp3
-163:Manele/Iuly Neamtu - Manele Mentolate - Țigancă de București.mp3
-164:Manele/Iuly Neamtu - Manele Mentolate - Un foc.mp3
-165:Manele/Iuly Neamtu - Manele Mentolate - Yabadabadu.mp3
-166:Manele/Iuly Neamtu - Ministerul Manelelor - Totul meu - Balkanic Version.mp3
-167:Manele/Jador - Dansez.mp3
-168:Manele/Jador - O Iubita De-o Zi.mp3
-169:Manele/Jador - O Zi.mp3
-170:Manele/Jador - Pe Balans.mp3
-171:Manele/Jador - Antonio Pican - Ploua cu banii.mp3
-172:Manele/Jador - Carmen de la Salciua - BlvckMatias - Nu Am Somn de 4 Zile.mp3
-173:Manele/Jador - Costel Biju - Hai Sa Facem Copii.mp3
-174:Manele/Jador - Costi - Andrea Bulgaria - Carola.mp3
-175:Manele/Jador - Gheboasă - Criminal.mp3
-176:Manele/Jador - Gheboasă - Manele Mentolate - Austria.mp3
-177:Manele/Jador - Manele Mentolate - Fana.mp3
-178:Manele/Jador - Manele Mentolate - Skinny.mp3
-179:Manele/Jador - Ministerul Manelelor - Berechet - Caramelizată.mp3
-180:Manele/Jador - Serena - Andrei Banuta - Mon Ami (#RaTaTa) - Remix.mp3
-181:Manele/Jimin - Who.mp3
-182:Manele/Johny Romano - E Mult - E Greu!.mp3
-183:Manele/Karmen - Bogdan DLP - Complicat.mp3
-184:Manele/Lazy Ed - Mario  - Îmi place când - From 'Situationship'.mp3
-185:Manele/Lele - Banca Mondială.mp3
-186:Manele/Lele - Bine Ai Venit in Balcani.mp3
-187:Manele/Lele - O Noapte in Medellin.mp3
-188:Manele/Lele - Manele VTM - Te vreau.mp3
-189:Manele/Lele - Manele VTM - Te-am visat mireasă.mp3
-190:Manele/Lele - Manele VTM - Vocea ta.mp3
-191:Manele/Lele - Nikolas - Ce mai karma am avut.mp3
-192:Manele/Lele - ROBY ONEE - N-ai vrut tigan.mp3
-193:Manele/Leo de la Kuweit - Du-ma Waze-ule.mp3
-194:Manele/Leo de la Kuweit - Camelia Dumitrache - MAYO - Te-as suna.mp3
-195:Manele/Leo de la Rosiori - Am tras draperiile - Live.mp3
-196:Manele/Leo de la Rosiori - Oameni buni sa nu uitati.mp3
-197:Manele/Luis Gabriel - -15 Grade.mp3
-198:Manele/Luis Gabriel - Amnezie.mp3
-199:Manele/Luis Gabriel - Domnisoara (Foc - Foc).mp3
-200:Manele/Luis Gabriel - Dulceata Buzelor.mp3
-201:Manele/Luis Gabriel - EX.mp3
-202:Manele/Luis Gabriel - Ochii Tai.mp3
-203:Manele/Luis Gabriel - Ochii Tai Albastri.mp3
-204:Manele/Luis Gabriel - Vagabond.mp3
-205:Manele/Luis Gabriel - Vara.mp3
-206:Manele/Luis Gabriel - Vipera.mp3
-207:Manele/Luis Gabriel - Bogdan De La Ploiesti - Consumator.mp3
-208:Manele/Luis Gabriel - Haziran - Vin Sa Te Fur.mp3
-209:Manele/Luis Gabriel - Kalif - Creola.mp3
-210:Manele/Luis Gabriel - Raluka - Poate Asa Te Uit.mp3
-211:Manele/Majii - Bogdan DLP - Amintirea ta - Balkan Version.mp3
-212:Manele/Mariano - Sistemul de vara - Live.mp3
-213:Manele/Miraj Tzunami - Am probleme la mansarda.mp3
-214:Manele/Miraj Tzunami - Carnet de smecher.mp3
-215:Manele/Narcisa - Lele - Ce N-as Da.mp3
-216:Manele/Narcisa - Tzanca Uraganu - Iubi Cu Mine Nu-Ti Merge.mp3
-217:Manele/Nicolae Guta - A innebunit planeta.mp3
-218:Manele/Nicolae Guta - Eu cu cineva - tu cu altcineva.mp3
-219:Manele/Nikolas - Haralambie Gabriel - 7 trupuri în extaz.mp3
-220:Manele/Nikolas - Manele Mentolate - Diamante Roz.mp3
-221:Manele/Nikolas - Manele Mentolate - Inima Mea.mp3
-222:Manele/Nikolas - Manele Mentolate - Jumătatea Mea.mp3
-223:Manele/Nikolas Sax - Da-i bombardamente.mp3
-224:Manele/Nikolas - Vali Vijelie - Iuly Neamtu - Manele Mentolate - Am Finete La Obraz.mp3
-225:Manele/Omar Arnaout - Adrian Norocel - Mă rupe rău.mp3
-226:Manele/Rares - Cel Mai Fericit De Pe Pǎmant.mp3
-227:Manele/Rares - Bogdan Dlp - Guli Guli - From 'buzz House' The Movie.mp3
-228:Manele/Rares - Bogdan Dlp - La Tine Și La Bani - From 'romina Vtm' The Movie.mp3
-229:Manele/Rares - Tzanca Uraganu - Sheik - Rares Bebelusul - Regele - From Buzz House- The Movie 2.mp3
-230:Manele/Rava - Adelinmm - Shegondie.mp3
-231:Manele/Samanta - Tzanca Uraganu - Alo Alo.mp3
-232:Manele/Sami G - Badd G - Arunca-ma La Lei.mp3
-233:Manele/Sami G - Johny Romano - Iarta-ma Mamo.mp3
-234:Manele/Shondy - Bogdan DLP - Motivul Principal.mp3
-235:Manele/Sombr - Back To Friends.mp3
-236:Manele/Sorinel Pustiu - Bogdan DLP - Alex Botea - Te Duc La Constanta.mp3
-237:Manele/Theo Rose - A venit poliția - From 'Candidatul perfect' The Movie.mp3
-238:Manele/Theo Rose - Bogdan DLP - Fara Tine.mp3
-239:Manele/Tony One - Costel Biju - Sistem Otoman.mp3
-240:Manele/Tzanca Uraganu - 24 De Karate.mp3
-241:Manele/Tzanca Uraganu - Alo baza baza.mp3
-242:Manele/Tzanca Uraganu - Am Luat Cina Cu Vecina.mp3
-243:Manele/Tzanca Uraganu - Bagabond Asa Ma Vrea.mp3
-244:Manele/Tzanca Uraganu - Bona.mp3
-245:Manele/Tzanca Uraganu - Buna Seara as Vrea.mp3
-246:Manele/Tzanca Uraganu - Buzele Cu Rosu Inchis.mp3
-247:Manele/Tzanca Uraganu - Cafeluta cu noroc.mp3
-248:Manele/Tzanca Uraganu - Ciocolata.mp3
-249:Manele/Tzanca Uraganu - Cu Lumina Stinsa.mp3
-250:Manele/Tzanca Uraganu - Da-mi locatia.mp3
-251:Manele/Tzanca Uraganu - De-as Avea Smecherometru.mp3
-252:Manele/Tzanca Uraganu - Esti Genul Meu.mp3
-253:Manele/Tzanca Uraganu - Fa spagatu.mp3
-254:Manele/Tzanca Uraganu - Fac Deranj.mp3
-255:Manele/Tzanca Uraganu - Fake.mp3
-256:Manele/Tzanca Uraganu - Filipineza.mp3
-257:Manele/Tzanca Uraganu - Formula 1.mp3
-258:Manele/Tzanca Uraganu - Hai ca m-ai sedus.mp3
-259:Manele/Tzanca Uraganu - Havana.mp3
-260:Manele/Tzanca Uraganu - Iarta-ma Mamo - Live.mp3
-261:Manele/Tzanca Uraganu - Iepurasa coconasa.mp3
-262:Manele/Tzanca Uraganu - Mama dolarii.mp3
-263:Manele/Tzanca Uraganu - Mareste Zumu.mp3
-264:Manele/Tzanca Uraganu - Noaptea Golanii.mp3
-265:Manele/Tzanca Uraganu - Bombele.mp3
-266:Manele/Tzanca Uraganu - Pustoaica de Dorobanti.mp3
-267:Manele/Tzanca Uraganu - Rup Topurile.mp3
-268:Manele/Tzanca Uraganu - S-Au Unit Legendele.mp3
-269:Manele/Tzanca Uraganu - Scot dusmanii la bordura.mp3
-270:Manele/Tzanca Uraganu - Se Misca Beat.mp3
-271:Manele/Tzanca Uraganu - Se Misca Brrr.mp3
-272:Manele/Tzanca Uraganu - Surubu.mp3
-273:Manele/Tzanca Uraganu - Te-am vazut fara inel.mp3
-274:Manele/Tzanca Uraganu - Tenerife.mp3
-275:Manele/Tzanca Uraganu - Tigrata.mp3
-276:Manele/Tzanca Uraganu - Tomberonul.mp3
-277:Manele/Tzanca Uraganu - Vara-i vara.mp3
-278:Manele/Tzanca Uraganu - Viata Exclusivista.mp3
-279:Manele/Tzanca Uraganu - Dale Dale.mp3
-280:Manele/Tzanca Uraganu - Andrei G - Ministerul Manelelor - HOT - From Miami Bici 2 The Movie.mp3
-281:Manele/Tzanca Uraganu - Costel Biju - E Buna Rau Pe Basi.mp3
-282:Manele/Tzanca Uraganu - Costel Biju - Meneaito.mp3
-283:Manele/Tzanca Uraganu - Costel Biju - S-a lipit de pieptul meu.mp3
-284:Manele/Tzanca Uraganu - Cristi Mega - Arde.mp3
-285:Manele/Tzanca Uraganu - Denis Ramniceanu - Stewardese tatuate.mp3
-286:Manele/Tzanca Uraganu - Elys - Pui foc pe inimioara mea.mp3
-287:Manele/Tzanca Uraganu - Ionut Florea - Nasu nu se uita la hartii.mp3
-288:Manele/Tzanca Uraganu - Laura Bruma - Ministerul Manelelor - Buze de Hollywood.mp3
-289:Manele/Tzanca Uraganu - Manele Mentolate - Banii.mp3
-290:Manele/Tzanca Uraganu - Manele Mentolate - Susținem Ucraina.mp3
-291:Manele/Tzanca Uraganu - Manele Mentolate - Trotinete - From 'Romina VTM' The Movie.mp3
-292:Manele/Tzanca Uraganu - MIRAJ TZUNAMI - Tancuri blindate.mp3
-293:Manele/Tzanca Uraganu - Mr. Juve - Damelo.mp3
-294:Manele/Tzanca Uraganu - Nikolas - Zeita Din Olimp.mp3
-295:Manele/Tzanca Uraganu - Sheik - Eee Aaa  Burj Khalifa.mp3
-296:Manele/Tzanca Uraganu - Sheik - Vorba Francezului - From 'Buzz House' The Movie.mp3
-297:Manele/Tzanca Uraganu - Vali Vijelie - Tu Ma Duci Cu Zaharelu.mp3
-298:Manele/Tzanca Uraganu - Zanni - Suntem Foarte Bucuresti.mp3
-299:Manele/Ursaru - Mo Ilo.mp3
-300:Manele/Valentino - Bebe.mp3
-301:Manele/What's Up - Bogdan DLP - Toate Fetele.mp3
-302:Manele/What's Up - Jador - Ce N-Aș Da.mp3
-303:Manele/What's Up - Laura Vass - Jador - Unfollow.mp3
-304:Manele/YNY Sebi - Adrian Norocel - Dame Tu Cosita Mamacita.mp3
-305:Manele/YNY Sebi - Bogdan DLP - Lamborghini.mp3
-306:Manele/YNY Sebi - Bogdan DLP - Regele tarabanelor - From “Romina VTM” The Movie.mp3
-307:Manele/YNY Sebi - Bogdan DLP - Tarabanele.mp3
-308:Manele/Zenys - Tzanca Uraganu - Arfele figurile.mp3
+0:Youtube/Barfe Despre Tarfe.mp3
+1:Youtube/Cedry2k -  Carbon -  Pacha Man - Decapitalism.mp3
+2:Youtube/Ombladon - N-am plecat.mp3
+3:Youtube/Codu' Penal - Tramvaiul 4.mp3
+4:Youtube/Kick in the Door (2008 Remaster).mp3
+5:Youtube/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3
+6:Youtube/Kurupt -  Tray Dee -  Slip Capone - C-Walk.mp3
+7:Youtube/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3
+8:Youtube/Ombladon - N-am plecat.mp3
+9:Youtube/Ombladon - O alta zi.mp3
+10:Youtube/Ombladon - Gloante oarbe (cu Arssura).mp3
+11:Youtube/Confidential (feat. Bitza).mp3
+12:Youtube/Parazitii feat  Spike - Rau sau bun (nr.40).mp3
+13:Youtube/Parazitii - Degeneratia Urmatoare (nr.84).mp3
+14:Youtube/Parazitii - Ultimul buletin de stiri de la ora 5.mp3
+15:Youtube/Paraziții feat. Larry Flint.mp3
+16:Youtube/Parazitii - Goana dupa iluzii.mp3
+17:Youtube/Spike - Tu.mp3
+18:Youtube/Spike - Ultimul om.mp3
+19:Youtube/San Andreas Cover Remake - 200K Subs Special!.mp3
+20:Youtube/Hypnotize (2007 Remaster).mp3
+21:Youtube/Underground - Classic.mp3
+22:Youtube/Underground - Mass-media.mp3
+23:Youtube/Westside Connection - Bow Down.mp3
+24:Youtube/Zale Feat Pacha Man - Shut'em Up (Official Video).mp3
+25:Youtube/B.U.G. Mafia -  Luchian -  XXL& 10 Grei -  Primo -  Mahsat - Iarba si alcool.mp3
+26:Youtube/B.U.G. Mafia - La Greu.mp3
+27:Youtube/B.U.G. Mafia - Inainte Sa Plec.mp3
+28:Youtube/B.U.G. Mafia  - Estu' Salbatic (Prod. Tata Vlad).mp3
+29:Youtube/Bearded Skull - 30´s.mp3
+30:Youtube/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3
+31:Youtube/Cedry2k -  Carbon -  Pacha Man - Decapitalism.mp3
+32:Youtube/Cedry2k - Balboa.mp3
+33:Youtube/Cheloo - Toate Nevestele [ Hidden Track ].mp3
+34:Youtube/Cheloo - Apel la sinceritate (Videoclip Oficial).mp3
+35:Youtube/Cheloo - Definitia 24378.mp3
+36:Youtube/Codu' Penal - Tramvaiul 4.mp3
+37:Youtube/Deliric - Sah mat [feat. DOC, Vlad Dobrescu].mp3
+38:Youtube/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3
+39:Youtube/Don Baxter - Show-Bizz.mp3
+40:Youtube/Eminem -  Dido - Stan.mp3
+41:Youtube/BOMBA FANTASTIC - (Remix).mp3
+42:Youtube/Jennifer Lopez  ft. Ja Rule - I'm Real (Remix) _Official Video_.mp3
+43:Youtube/Katy Perry -  Juicy J - Dark Horse.mp3
+44:Youtube/La Familia - In Realitate (cu Guz) ｜ Videoclip Oficial.mp3
 playlist_end

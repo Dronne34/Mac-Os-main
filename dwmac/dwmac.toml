@@ -1,0 +1,148 @@
+after-startup-command = [
+  # 'exec-and-forget borders style=round active_color=0xff4da3ff inactive_color=0xff9e9e9e width=2.0',
+]
+attach-below = true
+automatically-unhide-macos-hidden-apps = true
+center-floating-windows = true
+default-mfact = 0.6
+exec-on-workspace-change = [
+    'exec-and-forget $HOME/.config/dwmac/scripts/auto_focus_occupied.sh',
+]
+on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
+start-at-login = true
+
+[key-mapping]
+preset = 'qwerty'
+
+[gaps]
+inner.horizontal = 10
+inner.vertical = 10
+outer.bottom = 10
+outer.left = 10
+outer.right = 10
+outer.top = 10
+
+[mode.main.binding]
+alt-enter = 'exec-and-forget open -na "kitty.app"'
+ctrl-enter = 'exec-and-forget open -n "/Applications/Alacritty.app"'
+ctrl-alt-v = 'exec-and-forget open -n "/Applications/Visual Studio Code.app"'
+ctrl-alt-s = 'exec-and-forget open -na "/Applications/Safari.app"'
+ctrl-alt-c = 'exec-and-forget /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --profile-directory="Default"'
+ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/music-art'
+ctrl-alt-n = 'exec-and-forget /bin/bash -c $HOME/bin/kitty_three'
+ctrl-alt-p = 'exec-and-forget /bin/bash -c $HOME/bin/lofi-beats'
+ctrl-alt-q = 'exec-and-forget /bin/bash -c $HOME/bin/system.sh'
+ctrl-alt-r = 'exec-and-forget /bin/bash -c $HOME/bin/set_random_wallpaper.sh'
+ctrl-shift-t = 'exec-and-forget /bin/bash -c $HOME/bin/rds-url'
+ctrl-shift-f = 'exec-and-forget open /System/Library/CoreServices/Finder.app'
+ctrl-shift-y = 'exec-and-forget open -na "alacritty" --args -e yazi ~/'
+
+f7 = 'exec-and-forget mpc prev'
+f8 = 'exec-and-forget mpc toggle'
+f9 = 'exec-and-forget mpc next'
+
+cmd-q = 'exec-and-forget /bin/bash $HOME/.config/dwmac/scripts/close_and_back_if_empty.sh'
+ctrl-alt-f = 'macos-native-fullscreen'
+ctrl-alt-cmd-space = 'layout floating tiling'
+ctrl-alt-semicolon = 'focus-master-or-back'
+ctrl-alt-space = 'move-node-to-master'
+ctrl-alt-h = 'mfact -0.01'
+ctrl-alt-j = 'focus next'
+ctrl-alt-k = 'focus prev'
+ctrl-alt-l = 'mfact +0.01'
+ctrl-alt-cmd-j = 'swap next'
+ctrl-alt-cmd-k = 'swap prev'
+ctrl-alt-i = 'move up'
+ctrl-alt-u = 'move down'
+ctrl-alt-y = 'move left'
+ctrl-alt-o = 'move right'
+ctrl-alt-cmd-h = 'resize smart -10'
+ctrl-alt-cmd-l = 'resize smart +10'
+ctrl-alt-cmd-u = 'resize height +10'
+ctrl-alt-cmd-i = 'resize height -10'
+
+cmd-1 = 'workspace 1'
+cmd-2 = 'workspace 2'
+cmd-3 = 'workspace 3'
+cmd-4 = 'workspace 4'
+cmd-5 = 'workspace 5'
+cmd-6 = 'workspace 6'
+ctrl-cmd-1 = 'move-node-to-workspace --focus-follows-window 1'
+ctrl-cmd-2 = 'move-node-to-workspace --focus-follows-window 2'
+ctrl-cmd-3 = 'move-node-to-workspace --focus-follows-window 3'
+ctrl-cmd-4 = 'move-node-to-workspace --focus-follows-window 4'
+ctrl-cmd-5 = 'move-node-to-workspace --focus-follows-window 5'
+ctrl-cmd-6 = 'move-node-to-workspace --focus-follows-window 26'
+ctrl-alt-tab = 'workspace-back-and-forth'
+
+ctrl-alt-comma = 'focus-monitor prev'
+ctrl-alt-period = 'focus-monitor next'
+ctrl-cmd-comma = 'move-node-to-monitor --wrap-around prev'
+ctrl-alt-cmd-period = 'move-node-to-monitor --wrap-around next'
+
+ctrl-alt-cmd-e = 'reload-config'
+ctrl-alt-cmd-semicolon = 'mode service'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'exe'
+run = 'layout floating'
+
+[[on-window-detected]]
+if.window-title-regex-substring = 'mfloating'
+run = 'layout floating'
+
+[[on-window-detected]]
+check-further-callbacks = true
+if.app-id = 'com.microsoft.VSCode'
+run = 'move-node-to-workspace 2'
+
+[[on-window-detected]]
+check-further-callbacks = true
+if.app-id = 'com.google.Chrome'
+run = 'move-node-to-workspace 3'
+
+[[on-window-detected]]
+check-further-callbacks = true
+if.app-id = 'org.alacritty'
+run = 'move-node-to-workspace 5'
+
+[[on-window-detected]]
+check-further-callbacks = true
+if.app-id = 'com.apple.AppStore'
+run = ['layout floating', 'move-node-to-workspace 1']
+
+[[on-window-detected]]
+if.app-id = 'com.apple.finder'
+run = ['layout floating', 'move-node-to-workspace 1']
+
+[[on-window-detected]]
+if.app-id = 'io.mpv'
+run = ['layout floating', 'move-node-to-workspace 5']
+
+[[on-window-detected]]
+if.app-id = 'com.apple.Passwords'
+run = ['layout floating', 'move-node-to-workspace 5']
+
+[[on-window-detected]]
+if.app-id = 'org.videolan.vlc'
+run = ['layout floating', 'move-node-to-workspace 4']
+
+[[on-window-detected]]
+if.app-id = 'net.kovidgoyal.kitty'
+run = ['move-node-to-workspace 4']
+
+[[on-window-detected]]
+if.app-id = 'com.apple.Safari'
+run = ['move-node-to-workspace 3']
+
+[[on-window-detected]]
+if.app-id = 'net.whatsapp.WhatsApp'
+run = ['layout floating', 'move-node-to-workspace 6']
+
+[mode.service.binding]
+backspace = ['close-all-windows-but-current', 'mode main']
+down = 'volume down'
+esc = ['reload-config', 'mode main']
+f = ['layout floating tiling', 'mode main']
+shift-down = ['volume set 0', 'mode main']
+up = 'volume up'

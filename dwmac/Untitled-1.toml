@@ -1,0 +1,265 @@
+# Place a copy of this config to ~/.dwmac.toml
+# After that, you can edit ~/.dwmac.toml to your liking
+
+# General Settings {{{
+# You can use it to add commands that run after Dwmac startup.
+# 'after-startup-command' is run after 'after-login-command'
+# Available commands : https://hillyu.github.io/Dwmac/commands
+# Run Sketchybar together with Dwmac
+# sketchybar has a built-in detection of already running process,
+# so it won't be run twice on Dwmac restart
+after-startup-command = [
+    # 'exec-and-forget sketchybar --config $HOME/.config/sketchybar/config.ini',
+    # 'exec-and-forget /bin/bash -c $HOME/bin/set_random_wallpaper.sh',
+]
+# Start Dwmac at login
+start-at-login = true
+
+# Mouse follows focus when focused monitor changes
+# Drop it from your config, if you don't like this behavior
+# See https://hillyu.github.io/Dwmac/guide#on-focus-changed-callbacks
+# See https://hillyu.github.io/Dwmac/commands#move-mouse
+# Fallback value (if you omit the key): on-focused-monitor-changed = []
+on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
+
+# You can effectively turn off macOS "Hide application" (cmd-h) feature by toggling this flag
+# Useful if you don't use this macOS feature, but accidentally hit cmd-h or cmd-mod-h key
+# Also see: https://hillyu.github.io/Dwmac/goodies#disable-hide-app
+automatically-unhide-macos-hidden-apps = true
+
+default-mfact=0.6
+attach-below = true
+center-floating-windows = true
+# Possible values: (qwerty|dvorak|colemak)
+# See https://hillyu.github.io/Dwmac/guide#key-mapping
+
+
+
+mod = 'cmd'
+# }}}
+
+# Key Mapping {{{
+[key-mapping]
+preset = 'qwerty'
+# }}}
+
+# Gaps {{{
+# Gaps between windows (inner-*) and between monitor edges (outer-*).
+# Possible values:
+# - Constant:     gaps.outer.top = 8
+# - Per monitor:  gaps.outer.top = [{ monitor.main = 16 }, { monitor."some-pattern" = 32 }, 24]
+#                 In this example, 24 is a default value when there is no match.
+#                 Monitor pattern is the same as for 'workspace-to-monitor-force-assignment'.
+#                 See:
+#                 https://hillyu.github.io/Dwmac/guide#assign-workspaces-to-monitors
+[gaps]
+inner.horizontal = 10
+inner.vertical =   10
+outer.left =       20
+outer.bottom =     10
+outer.top =        10
+# outer.top = [
+#         # Minimal gap on internal display
+#         { monitor."^built-in retina display$" = 10 },
+#         # Larger gap on all other displays
+#         30,]
+outer.right =      20
+# }}}
+
+# Main Mode Bindings {{{
+# 'main' binding mode declaration
+# See: https://hillyu.github.io/Dwmac/guide#binding-modes
+# 'main' binding mode must be always presented
+# Fallback value (if you omit the key): mode.main.binding = {}
+[mode.main.binding]
+    ctrl-alt-f = 'exec-and-forget open /System/Library/CoreServices/Finder.app'
+    ctrl-alt-v = 'exec-and-forget open -n "/Applications/Visual Studio Code.app"'
+    ctrl-alt-y = 'exec-and-forget open -na "alacritty" --args -e yazi ~/'
+    ctrl-alt-s = 'exec-and-forget open -na "/Applications/Safari.app"'
+    ctrl-enter = 'exec-and-forget open -n "/Applications/Alacritty.app"'
+    alt-enter  = 'exec-and-forget open -na "kitty.app"'
+
+    f7 = 'exec-and-forget mpc prev'
+    f8 = 'exec-and-forget mpc toggle'
+    f9 = 'exec-and-forget mpc next'
+
+    ctrl-alt-c = 'exec-and-forget /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --profile-directory="Default"'
+    ctrl-alt-r = 'exec-and-forget /bin/bash -c $HOME/bin/set_random_wallpaper.sh'
+    ctrl-alt-n = 'exec-and-forget /bin/bash -c $HOME/bin/kitty_three'
+    ctrl-alt-p = 'exec-and-forget /bin/bash -c $HOME/bin/lofi-beats'
+    ctrl-alt-m = 'exec-and-forget /bin/bash -c $HOME/bin/music-art'
+    ctrl-alt-q = 'exec-and-forget /bin/bash -c $HOME/bin/system.sh'
+    ctrl-alt-t = 'exec-and-forget /bin/bash -c $HOME/bin/rds-url'
+
+    cmd-q = 'close --quit-if-last-window'
+
+    alt-semicolon = 'focus --boundaries-action wrap-around-the-workspace next'
+    alt-j = 'focus --boundaries-action wrap-around-the-workspace prev'
+    alt-k = 'focus --boundaries-action wrap-around-the-workspace next'
+    alt-l = 'focus --boundaries-action wrap-around-the-workspace prev'
+
+    alt-h = 'layout horizontal'
+    alt-v = 'layout vertical'
+
+    ctrl-comma = 'layout horizontal vertical'
+    ctrl-slash = 'layout master-stack horizontal vertical'
+
+    ctrl-shift-f = 'macos-native-fullscreen'
+    ctrl-f = 'fullscreen --no-outer-gaps'
+
+    cmd-right = 'workspace next'
+    cmd-left = 'workspace prev'
+
+  # See: https://hillyu.github.io/Dwmac/commands#resize
+    cmd-alt-ctrl-minus = 'resize smart -50'
+    cmd-alt-ctrl-equal = 'resize smart +50'
+    mod-shift-u = 'resize height +10'
+    mod-shift-i = 'resize height -10'
+    mod-shift-y = 'resize width -10'
+    mod-shift-o = 'resize width +10'
+
+    cmd-alt-j = 'swap next'
+    cmd-alt-k = 'swap prev'
+    
+    cmd-alt-ctrl-j = 'focus next'
+    cmd-alt-ctrl-k = 'focus prev'
+    cmd-alt-ctrl-h = 'mfact -0.1'
+    cmd-alt-ctrl-l = 'mfact +0.1'
+
+    cmd-1 = 'workspace 1'
+    cmd-2 = 'workspace 2'
+    cmd-3 = 'workspace 3'
+    cmd-4 = 'workspace 4'
+    cmd-5 = 'workspace 5'
+    cmd-6 = 'workspace 6'
+
+    ctrl-alt-1 = 'move-node-to-workspace --focus-follows-window 1'
+    ctrl-alt-2 = 'move-node-to-workspace --focus-follows-window 2'
+    ctrl-alt-3 = 'move-node-to-workspace --focus-follows-window 3'
+    ctrl-alt-4 = 'move-node-to-workspace --focus-follows-window 4'
+    ctrl-alt-5 = 'move-node-to-workspace --focus-follows-window 5'
+    ctrl-alt-6 = 'move-node-to-workspace --focus-follows-window 6'
+
+    ctrl-tab = 'workspace-back-and-forth'
+    ctrl-p = 'move-workspace-to-monitor --wrap-around next'
+    
+
+
+    ctrl-cmd-semicolon = 'mode service'
+
+# Window Rules {{{
+# on-window-detected events are like window rules:
+# [[on-window-detected]]
+# if.app-name-regex-substring = 'settings'
+# run = 'layout floating'
+[[on-window-detected]]
+if.app-name-regex-substring = 'finder'
+run = 'layout floating'
+[[on-window-detected]]
+if.app-name-regex-substring = 'exe'
+run = 'layout floating'
+[[on-window-detected]]
+if.window-title-regex-substring = 'mfloating'
+run = 'layout floating'
+# }}}
+# Code
+[[on-window-detected]]
+if.app-id = 'com.microsoft.VSCode'
+check-further-callbacks = true
+run = "move-node-to-workspace 2"
+
+# Brave
+[[on-window-detected]]
+if.app-id = 'com.brave.Browser'
+check-further-callbacks = true
+run = "move-node-to-workspace 3"
+
+# Google Chrome
+[[on-window-detected]]
+if.app-id = 'com.google.Chrome'
+check-further-callbacks = true
+run = "move-node-to-workspace 3"
+
+# Alacritty
+[[on-window-detected]]
+if.app-id = 'org.alacritty'
+check-further-callbacks = true
+run = "move-node-to-workspace 5"
+
+# Sublime Text
+[[on-window-detected]]
+if.app-id = 'dev.zed.Zed'
+run = "move-node-to-workspace 2"
+
+# AppStore
+[[on-window-detected]]
+if.app-id = 'com.apple.AppStore'
+check-further-callbacks = true
+run = ['layout floating', 'move-node-to-workspace 1'] # The callback itself
+
+# Finder
+[[on-window-detected]]
+if.app-id = 'com.apple.finder'
+run = ['layout floating', 'move-node-to-workspace 1']
+
+# mpv
+[[on-window-detected]]
+if.app-id = 'io.mpv'
+run = ['layout floating', 'move-node-to-workspace 5']
+
+# Passwords
+[[on-window-detected]]
+if.app-id = 'com.apple.Passwords'
+run = ['layout floating', 'move-node-to-workspace 5']
+
+# VLC
+[[on-window-detected]]
+if.app-id = 'org.videolan.vlc'
+run = ['layout floating', 'move-node-to-workspace 4']
+
+# Kitty
+[[on-window-detected]]
+if.app-id = 'net.kovidgoyal.kitty'
+run = ['move-node-to-workspace 4']
+
+# Safari
+[[on-window-detected]]
+if.app-id = 'com.apple.Safari'
+run = ['move-node-to-workspace 3']
+
+# WhatsApp
+[[on-window-detected]]
+if.app-id = 'net.whatsapp.WhatsApp'
+run = ['layout floating', 'move-node-to-workspace 6']
+
+# [workspace-to-monitor-force-assignment]
+# 1 = 1 # Monitor sequence number from left to right. 1-based indexing
+# 2 = 'main' # Main monitor
+# 3 = 'secondary' # Non-main monitor in case when there are only two monitors
+# 4 = 'built-in' # Case insensitive regex substring
+# 5 = '^built-in retina display$' # Case insensitive regex match
+# 6 = [
+#     'secondary',
+#     'dell',
+# ] # You can specify multiple patterns. The first matching pattern will be used
+
+
+# Service Mode Bindings {{{
+# 'service' binding mode declaration.
+# See: https://hillyu.github.io/Dwmac/guide#binding-modes
+[mode.service.binding]
+esc = ['reload-config', 'mode main']
+# r = ['index', 'mode main'] # reset layout
+f = ['layout floating tiling', 'mode main'] # Toggle between floating and tiling layout
+backspace = ['close-all-windows-but-current', 'mode main']
+
+# sticky is not yet supported https://github.com/hillyu/Dwmac/issues/2
+#s = ['layout sticky tiling', 'mode main']
+
+
+down = 'volume down'
+up = 'volume up'
+shift-down = ['volume set 0', 'mode main']
+# }}}
+
+# vim: set foldmethod=marker foldlevel=0:
